@@ -1,1306 +1,178 @@
+// 20230714185909
+// https://newsapi.org/v2/top-headlines?apiKey=bd1a7ad3a5b74680a5c659a6eeabf9b3&q=health
+
 {
-    "status": "ok",
-    "totalResults": 1591,
-    "articles": [
-    {
-    "source": {
-    "id": "engadget",
-    "name": "Engadget"
-    },
-    "author": "Mat Smith",
-    "title": "iOS 17 preview: FaceTime, everywhere",
-    "description": "Apple just launched its iOS 17 public beta, meaning you can test out the latest iPhone software if you’re willing to live with a bug or two. I’ve been using iPhone 14 Pro with the developer beta for the last few weeks and there are plenty of features and upgr…",
-    "url": "https://www.engadget.com/ios-17-preview-public-beta-facetime-standby-iphone-120025938.html",
-    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/tlPWEEOT_42ibdD8DLIZPw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/21b50291-215d-11ee-9dd3-93a2f9fccab6.cf.jpg",
-    "publishedAt": "2023-07-13T12:00:25Z",
-    "content": "Apple just launched its iOS 17 public beta, meaning you can test out the latest iPhone software if youre willing to live with a bug or two. Ive been using iPhone 14 Pro with the developer beta for th… [+10371 chars]"
-    },
-    {
-    "source": {
-    "id": "wired",
-    "name": "Wired"
-    },
-    "author": "Scott Gilbertson, Gear Team",
-    "title": "95 Best Prime Day Deals Still Going Strong (2023): Phones, Laptops, Espresso Machines",
-    "description": "Amazon's big event is over, but a few of our favorite things are still on sale, like robot vacuums, laptops, Pixel phones, and Apple watches.",
-    "url": "https://www.wired.com/story/best-amazon-prime-day-leftover-deals-2023/",
-    "urlToImage": "https://media.wired.com/photos/618c00da12143eb34d938e26/191:100/w_1280,c_limit/Gear-Beats-Fit-Pro-top.jpg",
-    "publishedAt": "2023-07-13T13:15:08Z",
-    "content": "After a full 48 hours, Amazon Prime Day 2023 is officially over. Whew, we made it. We hope you were able to find useful discounts among the Kindles, Echo Dots, iPads, LifeStraws, and other great deal… [+37732 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Gizmodo.com"
-    },
-    "author": "Kevin Hurler",
-    "title": "Apple Bans AI-Powered Threads Knockoff From the App Store",
-    "description": "After Meta copied Twitter with Threads to major success, third parties are vying for an undeserved piece of the action. Apple has removed an app titled “Threads for Insta,” which is not actually the Threads app, but is instead an AI-powered content generator.…",
-    "url": "https://gizmodo.com/threads-apple-bans-ai-threads-for-insta-app-store-1850636058",
-    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/85cdde93b06020e6f673affff2d63678.jpg",
-    "publishedAt": "2023-07-13T16:24:00Z",
-    "content": "After Meta copied Twitter with Threads to major success, third parties are vying for an undeserved piece of the action. Apple has removed an app titled Threads for Insta, which is not actually the Th… [+1919 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Android Central"
-    },
-    "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
-    "title": "Nothing Phone (2) initial review: something fun, something new",
-    "description": "Nothing is back with its second-generation Phone (2), and the device is more than a refined version of last year's phone. It's just plain fun.",
-    "url": "https://www.androidcentral.com/phones/nothing-phone-2-initial-review",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/L2G6mbSiyXLZkSpPHm9TKL-1200-80.jpg",
-    "publishedAt": "2023-07-13T15:30:00Z",
-    "content": "Last year's Nothing Phone (1) was a spectacle of a device. Nothing CEO and founder Carl Pei is a hype man, if nothing else, and his new company's first device was certainly unique, but it had its fla… [+13748 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "The Guardian"
-    },
-    "author": "Aletha Adu Political correspondent",
-    "title": "Boris Johnson ‘has forgotten’ passcode for phone wanted by Covid inquiry",
-    "description": "Spokesperson says ex-PM wants to hand over WhatsApp messages but experts describe latest development as ‘pretty lame excuse’Boris Johnson’s WhatsApp messages are yet to be received by the Covid inquiry because he is said to have forgotten the passcode for his…",
-    "url": "https://www.theguardian.com/uk-news/2023/jul/13/boris-johnson-has-forgotten-passcode-for-phone-wanted-by-covid-inquiry",
-    "urlToImage": "https://i.guim.co.uk/img/media/c6909a80699e37f3ca3c7979cba36bee03914fdc/0_62_4678_2807/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9cd4ebd40314f5c9631475f326f4dabb",
-    "publishedAt": "2023-07-13T15:04:38Z",
-    "content": "Boris Johnsons WhatsApp messages are yet to be received by the Covid inquiry because he is said to have forgotten the passcode for his old phone.\r\nThe former prime ministers spokesperson said Johnson… [+2914 chars]"
-    },
-    {
-     "source": {
-    "id": null,
-    "name": "MacRumors"
-    },
-    "author": "Tim Hardwick",
-    "title": "Apple Launches Tap to Pay on iPhone in the UK",
-    "description": "Apple has announced the launch of Tap to Pay on iPhone in the United Kingdom, allowing independent sellers, small merchants, and large retailers in the country to use ‌iPhones‌ as a payment terminal.\n\n\n\n\n\nIntroduced in February 2022, the feature allows compat…",
-    "url": "https://www.macrumors.com/2023/07/13/apple-launches-tap-to-pay-on-iphone-uk/",
-    "urlToImage": "https://images.macrumors.com/t/Q4-3_f5yvI93G9ijxeBwFHbOgLo=/1960x/article-new/2023/07/Apple-Tap-to-Pay-on-iPhone-avail-UK-transaction.jpg",
-    "publishedAt": "2023-07-13T08:05:29Z",
-    "content": "Apple has announced the launch of Tap to Pay on iPhone in the United Kingdom, allowing independent sellers, small merchants, and large retailers in the country to use iPhones as a payment terminal.\r\n… [+2027 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "MacRumors"
-    },
-    "author": "Tim Hardwick",
-    "title": "iOS 17 and iPadOS 17 Public Betas Add Support for Bilingual Siri Queries Mixing English and Hindi",
-    "description": "Apple yesterday released its first set of public betas for iOS 17, iPadOS 17, and macOS Sonoma, and these versions add new features for Indian users across platforms, including support for bilingual queries to Siri. \n\n\n\n\n\nAccording to TechCrunch, users will b…",
-    "url": "https://www.macrumors.com/2023/07/13/ios-17-beta-bilingual-siri-queries-english-hindi/",
-    "urlToImage": "https://images.macrumors.com/t/wmL4cZX0bd33bXDnYvDlzRxY6yU=/2500x/article-new/2023/07/iOS-17-Public-Beta-Thumb-3.jpg",
-    "publishedAt": "2023-07-13T08:50:44Z",
-    "content": "Apple yesterday released its first set of public betas for iOS 17, iPadOS 17, and macOS Sonoma, and these versions add new features for Indian users across platforms, including support for bilingual … [+1288 chars]"
-    },
-    {
-    "source": {
-    "id": "business-insider",
-    "name": "Business Insider"
-    },
-    "author": "Sophia Carlisle",
-    "title": "Prime Day isn't done yet: The best deals still live",
-    "description": "Although Prime Day has officially closed, there are still a few great deals that haven't ended. Here are the best deals you can still snag.",
-    "url": "https://www.businessinsider.com/guides/deals/prime-day-deals-still-live-2023-7-13",
-    "urlToImage": "https://i.insider.com/64affd57c22d1a0019454244?width=1200&format=jpeg",
-    "publishedAt": "2023-07-13T13:40:35Z",
-    "content": "When you buy through our links, Insider may earn an affiliate commission. Learn more.\r\nMost of the deals from Amazon Prime Day are gone, but there are still a few great discounts hanging around if yo… [+1281 chars]"
-    },
- {
- "source": {
-    "id": "business-insider",
-    "name": "Business Insider"
-    },
-    "author": "Haley Tenore",
-    "title": "Meta's VP of Metaverse says 'the metaverse hype is dead,' but that's OK",
-    "description": "Now that the hype-cycle around the metaverse has died down, \"we can put our heads down and build,\" Meta exec Vishal Shah said.",
-    "url": "https://www.businessinsider.com/meta-vp-says-metaverse-hype-dead-thats-ok-2023-7",
-    "urlToImage": "https://i.insider.com/64b015a99751e3001929f563?width=1200&format=jpeg",
-    "publishedAt": "2023-07-13T15:50:08Z",
-    "content": "Mark Zuckerberg as an avatar in the metaverse during Meta's Connect 2022 conference.Meta\r\n<ul>\n<li>Meta's VP of Metaverse said the hype cycle for the metaverse is dead, but that's okay.</li>\n<li>The … [+3889 chars]"
-    },
- {
- "source": {
-    "id": "business-insider",
-    "name": "Business Insider"
-    },
-    "author": "Will Fischer,Sarah Saril",
-    "title": "LIVE: The 41 best last-minute Prime Day deals to scoop up before midnight",
-    "description": "Prime Day is almost over, but we're rounding up the best deals until the very end. Now is your last chance to save big on top products.",
-    "url": "https://www.businessinsider.com/guides/deals/live-best-last-minute-prime-day-deals-of-day-2-wednesday-2023-7-12",
-    "urlToImage": "https://i.insider.com/64a809dd6d7e02001af86a21?width=1200&format=jpeg",
-    "publishedAt": "2023-07-13T02:29:29Z",
-    "content": "Snag these deals before Prime Day ends.Amazon; Chelsea Feng/Alyssa Powell/Insider\r\nPrime Day 2023 ends at midnight, so we're rounding up the best last-minute deals you can still find available. Our e… [+17505 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Boing Boing"
-    },
-    "author": "Thom Dunn",
-    "title": "Report finds Connecticut state troopers faked thousands of traffic tickets",
-    "description": "Last summer, a small group of Connecticut state troopers were caught running a racket, involving fake traffic tickets, for personal gain. This sparked some curiosity about what other sorts of illegal activity might be going on with state troopers and the tick…",
-    "url": "https://boingboing.net/2023/07/13/report-finds-connecticut-state-troopers-faked-thousands-of-traffic-tickets.html",
-    "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/07/New_Jersey_State_Police_Traffic_Stop.jpg?fit=1200%2C836&ssl=1",
-    "publishedAt": "2023-07-13T13:01:31Z",
-    "content": "Last summer, a small group of Connecticut state troopers were caught running a racket, involving fake traffic tickets, for personal gain. This sparked some curiosity about what other sorts of illegal… [+2187 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Hipertextual"
-    },
-    "author": "Rubén Chicharro",
-    "title": "Taylor Swift: 10 trucos para comprar antes que nadie las entradas del concierto",
-    "description": "Hoy es el día en el que Ticketmaster pondrá a la venta las entradas para el concierto que Taylor Swift dará el próximo 30 de mayo en Madrid con motivo del The Eras Tour, su quinta gira internacional después de años sin pisar un escenario. Aquellos afortunados…",
-    "url": "http://hipertextual.com/2023/07/taylor-swift-trucos-para-comprar-entradas-antes-que-nadie",
-    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/taylor-swift-008-scaled.jpg",
-    "publishedAt": "2023-07-13T09:22:19Z",
-    "content": "Hoy es el día en el que Ticketmaster pondrá a la venta las entradas para el concierto que Taylor Swift dará el próximo 30 de mayo en Madrid con motivo del The Eras Tour, su quinta gira internacional … [+4500 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Hackaday"
-    },
-    "author": "Bryan Cockfield",
-    "title": "Recreating The Golden Era of Cable TV",
-    "description": "Fewer and fewer people have cable TV subscriptions these days, due to a combination of poor business practices by cable companies and the availability of alternatives to cable such as various strea…",
-    "url": "https://hackaday.com/2023/07/13/recreating-the-golden-era-of-cable-tv/",
-    "urlToImage": "https://hackaday.com/wp-content/uploads/2023/07/tv-network-main.png",
-    "publishedAt": "2023-07-13T08:00:31Z",
-    "content": "Fewer and fewer people have cable TV subscriptions these days, due to a combination of poor business practices by cable companies and the availability of alternatives to cable such as various streami… [+1976 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Intheknow.com"
-    },
-    "author": "Katie Mather",
-    "title": "TikTok-famous 'Dr. Roxy' loses medical license after livestreaming plastic surgery operations to her over 800,000 followers",
-    "description": "Dr. Katharine Grawe, an Ohio-based plastic surgeon who livestreamed procedures on TikTok under the moniker Dr. Roxy, officially had her medical license...",
-    "url": "https://www.intheknow.com/post/dr-roxy-katharine-grawe-medical-license-ohio/",
-    "urlToImage": "https://media.zenfs.com/en/in_the_know_500/1d1052dc84d639e2726a66ab5ab4e73f",
-    "publishedAt": "2023-07-13T15:01:03Z",
-    "content": "Dr. Katharine Grawe, an Ohio-based plastic surgeon who livestreamed procedures on TikTok, officially had her medical license revoked by the Ohio State Medical Board on July 12.\r\nGrawe, who went by Dr… [+3522 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "HuffPost"
-    },
-    "author": "Lydia O'Connor",
-    "title": "Screen Actors Guild Members Poised To Go On Strike After Negotiations Fail",
-    "description": "A negotiating committee for SAG members recommended that their national board call a strike as talks failed to yield a deal.",
-    "url": "https://www.huffpost.com/entry/screen-actors-guild-strike_n_649df1d6e4b030efa11f573f",
-    "urlToImage": "https://img.huffingtonpost.com/asset/649dfb15250000360023f4db.jpeg?cache=S93YL3y2hP&ops=1200_630",
-    "publishedAt": "2023-07-13T09:02:13Z",
-    "content": "The Screen Actors Guild appears to be headed for a strike as talks with the Alliance of Motion Picture and Television Producers fell apart after Wednesdays midnight deadline.\r\nThe negotiating committ… [+2724 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Xataka.com"
-    },
-    "author": "Christian Ruiz",
-    "title": "El Apple Watch más barato sigue a precio mínimo en PcComponentes, pero Amazon lo iguala sin ser Prime Day",
-    "description": "A pesar de que el Prime Day ha finalizado, eso no significa que Amazon haya parado su maquinaria de ofertas y rebajas. El vivo ejemplo de ello es el Apple Watch SE de 2ª generación, que tiene un precio de 299 euros.\n<!-- BREAK 1 --><!-- PIVOT START -->\n\n \n \n …",
-    "url": "https://www.xataka.com/seleccion/apple-watch-barato-sigue-a-precio-minimo-pccomponentes-amazon-iguala-ser-prime-day",
-    "urlToImage": "https://i.blogs.es/acbb11/apertura-apple-watch-se/840_560.jpeg",
-    "publishedAt": "2023-07-13T16:30:59Z",
-    "content": "A pesar de que el Prime Day ha finalizado, eso no significa que Amazon haya parado su maquinaria de ofertas y rebajas. El vivo ejemplo de ello es el Apple Watch SE de 2ª generación, que tiene un prec… [+2191 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Xataka.com"
-    },
-    "author": "Yúbal Fernández",
-    "title": "Cómo bajar e instalar la beta pública de iOS 17, iPadOS 17, WatchOS 10 o macOS 14 Sonora",
-    "description": "Vamos a explicarte cómo descargar las betas públicas de iOS 17, iPadOS 17, WatchOS 10 y macOS 14 Sonora, de forma que puedas empezar a probar las próximas versiones de los sistemas operativos de Apple. El proceso es muy sencillo, y solo tienes que vincular tu…",
-    "url": "https://www.xataka.com/basics/como-bajar-e-instalar-beta-publica-ios-17-ipados-17-watchos-10-macos-14-sonora",
-    "urlToImage": "https://i.blogs.es/ef242e/betas-apple/840_560.jpeg",
-    "publishedAt": "2023-07-13T08:32:21Z",
-    "content": "Vamos a explicarte cómo descargar las betas públicas de iOS 17, iPadOS 17, WatchOS 10 y macOS 14 Sonora, de forma que puedas empezar a probar las próximas versiones de los sistemas operativos de Appl… [+2885 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Xataka.com"
-    },
-    "author": "Enrique Pérez",
-    "title": "Giro radical en la tienda de Android: las aplicaciones con blockchain y NFTs ahora son bienvenidas",
-    "description": "Google ha actualizado sus condiciones para la Play Store de Android. Y lo hace abriendo la puerta a un tipo de aplicaciones que hasta la fecha estaban prohibidas en la plataforma para móviles. Según se explica en un comunicado, la tienda de Android permitirá …",
-    "url": "https://www.xataka.com/criptomonedas/giro-radical-tienda-android-aplicaciones-blockchain-nfts-ahora-bienvenidas",
-    "urlToImage": "https://i.blogs.es/becc4a/blockchain/840_560.jpeg",
-    "publishedAt": "2023-07-13T08:00:56Z",
-    "content": "Google ha actualizado sus condiciones para la Play Store de Android. Y lo hace abriendo la puerta a un tipo de aplicaciones que hasta la fecha estaban prohibidas en la plataforma para móviles. Según … [+3064 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Xataka.com"
-    },
-    "author": "Alberto de la Torre",
-    "title": "Este es el precio y características del coche de bajas emisiones más vendido en España el último mes",
-    "description": "La combinación de buen precio y pegatina ECO es una de las que más interés despierta entre quienes buscan coche nuevo. Los datos así lo demuestran pues Toyota, marca que sólo tiene modelos ECO o Cero emisiones en su oferta, fue el fabricante más comprado en n…",
-    "url": "https://www.xataka.com/movilidad/este-precio-caracteristicas-coche-bajas-emisiones-vendido-espana-ultimo-mes",
-    "urlToImage": "https://i.blogs.es/9aeecd/toyota-yaris_cross-2021-1600-20/840_560.jpeg",
-    "publishedAt": "2023-07-13T10:31:00Z",
-    "content": "La combinación de buen precio y pegatina ECO es una de las que más interés despierta entre quienes buscan coche nuevo. Los datos así lo demuestran pues Toyota, marca que sólo tiene modelos ECO o Cero… [+4315 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Xataka.com"
-    },
-    "author": "John Tones",
-    "title": "'The Last of Us' arrasa en las nominaciones de los Emmy 2023: desde 1993 nunca una serie nueva había acumulado tantas",
-    "description": "Nada menos que 24 nominaciones a los Emmy de este año ha acumulado 'The Last of Us', en un hito que la coloca casi a la altura de la aclamada 'Succession', con 27 nominaciones. Sin embargo, hay una diferencia: 'The Last of us' es una serie nueva, aún en su pr…",
-    "url": "https://www.xataka.com/streaming/the-last-of-us-arrasa-nominaciones-emmy-2023-1993-nunca-serie-nueva-habia-acumulado-tantas",
-    "urlToImage": "https://i.blogs.es/e1b891/ku7dksvrxjfqxlbetivauy57z4/840_560.jpeg",
-    "publishedAt": "2023-07-13T08:30:58Z",
-    "content": "Nada menos que 24 nominaciones a los Emmy de este año ha acumulado 'The Last of Us', en un hito que la coloca casi a la altura de la aclamada 'Succession', con 27 nominaciones. Sin embargo, hay una d… [+4178 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Xataka.com"
-    },
-    "author": "Ricardo Aguilar",
-    "title": "Nothing Phone (2), análisis: los LEDs son el reclamo. El software es lo que realmente importa",
-    "description": "Tras mis primeras impresiones con el Nothing Phone (2), por fin llegó el momento: toca contaros qué me ha parecido el terminal tras casi dos semanas de uso completo. Pude probar el Nothing Phone (1), por lo que tengo bastante claro cuál ha sido la evolución y…",
-    "url": "https://www.xataka.com/analisis/nothing-phone-2-analisis-caracteristicas-precio-especificaciones",
-    "urlToImage": "https://i.blogs.es/2e1008/img_1690/840_560.jpeg",
-    "publishedAt": "2023-07-13T15:30:00Z",
-    "content": "Tras mis primeras impresiones con el Nothing Phone (2), por fin llegó el momento: toca contaros qué me ha parecido el terminal tras casi dos semanas de uso completo. Pude probar el Nothing Phone (1),… [+26412 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "The Economist"
-    },
-    "author": "The Economist",
-    "title": "The world is in the grip of a manufacturing delusion",
-    "description": "How to waste trillions of dollars",
-    "url": "https://www.economist.com/finance-and-economics/2023/07/13/the-world-is-in-the-grip-of-a-manufacturing-delusion",
-    "urlToImage": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230715_FND001.jpg",
-    "publishedAt": "2023-07-13T10:22:51Z",
-    "content": "Industry has an allure all of its own. From manufacturing you may expect the two greatest ills of humanity, superstition and slavery, to be healed, wrote Ferdinando Galiani, an Enlightenment thinker.… [+15257 chars]"
-    },
- {
- "source": {
-    "id": "le-monde",
-    "name": "Le Monde"
-    },
-    "author": "Le Monde avec AFP",
-    "title": "A Hollywood, vers une grève des acteurs après l’échec des négociations avec les grands studios",
-    "description": "« Après plus de quatre semaines de négociations », le précédent accord a expiré mercredi soir à minuit sans aucun espoir de conciliation, a constaté le syndicat SAG-AFTRA. Le bureau du syndicat doit entériner jeudi le début de la grève.",
-    "url": "https://www.lemonde.fr/culture/article/2023/07/13/a-hollywood-vers-une-greve-des-acteurs-apres-l-echec-des-negociations-avec-les-grands-studios_6181788_3246.html",
-    "urlToImage": "https://img.lemde.fr/2023/07/13/37/0/3774/2516/1440/960/60/0/da91496_1689238880060-379423.jpg",
-    "publishedAt": "2023-07-13T10:25:39Z",
-    "content": "Des travailleurs de la WGA (Writers Guild of America) font un piquet de grève devant les studios Paramount le 12 juillet 2023 à Los Angeles, en Californie. MARIO TAMA / AFP\r\nAprès léchec des négociat… [+4721 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Digital Trends"
-    },
-    "author": "Christine Romero-Chan",
-    "title": "The Apple Watch Ultra is the perfect women’s smartwatch — seriously",
-    "description": "The Apple Watch Ultra was always exciting, but it is also very big. But after using it, I think it's a great smartwatch for women.",
-    "url": "http://www.digitaltrends.com/mobile/apple-watch-ultra-perfect-woman-smartwatch-why/",
-    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/07/apple-watch-ultra-workout.jpg?resize=1200%2C630&p=1",
-    "publishedAt": "2023-07-13T13:00:34Z",
-    "content": "Joe Maring/Digital Trends\r\nWhen Apple showed off the Apple Watch Ultra last September, I was excited to see it. The design alone was unique and a great change of pace from the tried-and-true design o… [+7048 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Digital Trends"
-    },
-    "author": "Luke Larsen",
-    "title": "There are too many MacBooks",
-    "description": "With six different MacBooks now in the lineup, it's become more difficult than ever to make the right choice.",
-    "url": "http://www.digitaltrends.com/computing/why-apple-needs-major-macbook-shakeup/",
-    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/06/macbookair15-08.jpg?resize=1200%2C630&p=1",
-    "publishedAt": "2023-07-13T15:00:57Z",
-    "content": "Luke Larsen / Digital Trends\r\nThere are too many MacBooks. With six options to compare, choosing one from the lineup now requires a deep knowledge of the marketing and technical materials — a lack of… [+4392 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Nyuengelberg.org"
-    },
-    "author": null,
-    "title": "The Anti-Ownership eBook Economy",
-    "description": "Pulling back the curtain on the evolution of ebooks offers some clarity to how the shift to digital left ownership behind in the analog world.",
-    "url": "https://nyuengelberg.org/outputs/the-anti-ownership-ebook-economy/",
-    "urlToImage": "https://nyuengelberg.org/images/og-image.png",
-    "publishedAt": "2023-07-13T04:36:56Z",
-    "content": "Have you ever noticed that you cant really buy an ebook? Sure, when you click that Buy Now button on your ereader, tablet, or phone, it feels like a complete, seamless transaction. But the minute you… [+113775 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "heise online"
-    },
-    "author": "Mark Mantel",
-    "title": "PC-Markt: Die Talfahrt hat (vorerst) ein Ende",
-    "description": "Die großen Hersteller verkaufen wieder mehr Desktop-PCs und Notebooks. Das dürfte sich auch auf Komponentenpreise auswirken, etwa von SSDs.",
-    "url": "https://www.heise.de/news/PC-Markt-Die-Talfahrt-hat-vorerst-ein-Ende-9215952.html",
-    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/1/0/0/4/21957edc41622975ec65a255d7811fd4cddb4437e9ad70e33545c6f5fbe1d99b-3c6d0f14e7000b2a.jpeg",
-    "publishedAt": "2023-07-13T16:10:00Z",
-    "content": "Hersteller haben im zweiten Quartal 2023 gut acht Prozent mehr PCs verkauft als noch am Jahresanfang. Zu diesem Ergebnis gelangen die beiden Marktbeobachter Gartner und IDC anhand von vorläufigen Zah… [+1980 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "heise online"
-    },
-    "author": "Mark Liebrand",
-    "title": "heise+ | Bastelprojekt: Wie der Eigenbau von alltagstauglichen AirTag-Klonen gelingt",
-    "description": "In diesem Artikel erklären wir, wie Sie einen Tracker für Apples Find-My-Netzwerk bauen – ganz ohne verräterischen Stromkabel.",
-    "url": "https://www.heise.de/ratgeber/Bastelprojekt-Wie-der-Eigenbau-von-alltagstauglichen-AirTag-Klonen-gelingt-9202874.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/3/9/7/4/A06_Familienfoto-20e7bf73fa55e4d4.jpeg",
-    "publishedAt": "2023-07-13T05:30:00Z",
-    "content": "Inhaltsverzeichnis\r\nIn einem vorherigen Artikel haben wir ein Projekt zum Eigenbau von Trackern ähnlich der bekannten AirTags von Apple vorgestellt, die auch gleich Apples Find-My-Netzwerk nutzen. Do… [+2372 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "9to5Mac"
-    },
-    "author": "Ben Lovejoy",
-    "title": "Apple union negotiators acted illegally, claim Maryland store reps",
-    "description": "Apple has once again been accused of breaking the law in its attempts to fight unionization by retail store employees. Staff at the Maryland store say that Apple union negotiators acted in bad faith by stalling for as long as possible, and broke the law by en…",
-    "url": "https://9to5mac.com/2023/07/13/apple-union-negotiators-acted-illegally/",
-    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/Apple-union-negotiators-acted-illegally.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "publishedAt": "2023-07-13T11:46:39Z",
-    "content": "Apple has once again been accused of breaking the law in its attempts to fight unionization by retail store employees. Staff at the Maryland store say that Apple union negotiators acted in bad faith … [+3882 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "9to5Mac"
-    },
-    "author": "Michael Potuck",
-    "title": "Apple’s Back to School promo now available in Europe, Middle East, and Asia",
-    "description": "After launching its annual Back to School promo for the US in June, Apple has made the special deals available in Europe, the Middle East, and Asia. Depending on where you live, you’ll be eligible for up to a €150 (£130) gift card or a free pair of AirPods.\n …",
-    "url": "https://9to5mac.com/2023/07/13/apple-back-to-school-promo-europe-middle-east-asia/",
-    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/eu-uk-asia-apple-back-to-school.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "publishedAt": "2023-07-13T17:07:45Z",
-    "content": "After launching its annual Back to School promo for the US in June, Apple has made the special deals available in Europe, the Middle East, and Asia. Depending on where you live, you’ll be eligible fo… [+1325 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "9to5Mac"
-    },
-    "author": "Ben Lovejoy",
-    "title": "I’d like to blame Apple for my annual iPhone upgrade cycle, but I can’t",
-    "description": "Sure, I’m a gadget guy who likes shiny new toys as much as the next geek, but I do try to refrain from upgrades for their own sake – admittedly with mixed success.\nMy biggest challenge is with the iPhone. I’ve historically described this as my least-important…",
-    "url": "https://9to5mac.com/2023/07/13/annual-iphone-upgrade-cycle/",
-    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/Annual-iPhone-upgrade-cycle.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "publishedAt": "2023-07-13T14:28:46Z",
-    "content": "Sure, I’m a gadget guy who likes shiny new toys as much as the next geek, but I do try to refrain from upgrades for their own sake admittedly with mixed success.\r\nMy biggest challenge is with the iPh… [+4992 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "9to5Mac"
-    },
-    "author": "Ben Lovejoy",
-    "title": "Tap to Pay on iPhone comes to the UK today, Revolut and Tyl first to support",
-    "description": "Apple has announced that Tap to Pay on iPhone has now rolled out to the UK, enabling small businesses to accept Apple Pay and contactless card payments using nothing more than their iPhone. It follows earlier international expansion to Taiwan and Australia.\nT…",
-    "url": "https://9to5mac.com/2023/07/13/tap-to-pay-on-iphone-uk/",
-    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/Tap-to-Pay-on-iPhone-UK.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "publishedAt": "2023-07-13T12:36:30Z",
-    "content": "Apple has announced that Tap to Pay on iPhone has now rolled out to the UK, enabling small businesses to accept Apple Pay and contactless card payments using nothing more than their iPhone. It follow… [+2933 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "9to5Mac"
-    },
-    "author": "Filipe Espósito",
-    "title": "Having trouble syncing your iPod shuffle with your Mac in 2023? macOS 13.5 will fix that",
-    "description": "It’s been a few years since Apple discontinued its iPod lineup. While the iPod touch was discontinued last year, sales of the iPod shuffle and iPod nano ended in 2017. But of course, even in the streaming era, some people still keep their iPods alive for nost…",
-    "url": "https://9to5mac.com/2023/07/12/ipod-shuffle-sync-bug-macos-13-5/",
-    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/iPod-shuffle-Mac-bug.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "publishedAt": "2023-07-13T02:33:22Z",
-    "content": "It’s been a few years since Apple discontinued its iPod lineup. While the iPod touch was discontinued last year, sales of the iPod shuffle and iPod nano ended in 2017. But of course, even in the stre… [+1740 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "9to5Mac"
-    },
-    "author": "Rikka Altland",
-    "title": "Deals: 11-inch M2 iPad Pro now $150 off, iPhone 14 Plus from $730, Nomad 30% off sale, more",
-    "description": "Prime Day has now come and gone, but the enticing Apple offers are here to stay. Courtesy of 9to5Toys, all of today’s best discounts kick off with the best prices in months on 11-inch M2 iPad Pro. After Amazon’s shopping event didn’t offer a chance to save, t…",
-    "url": "https://9to5mac.com/2023/07/13/m2-ipad-pro-iphone-14-plus-sale/",
-    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/m2-ipad-pro-iphone-14-plus-sale.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "publishedAt": "2023-07-13T15:46:01Z",
-    "content": "Prime Day has now come and gone, but the enticing Apple offers are here to stay. Courtesy of 9to5Toys, all of today’s best discounts kick off with the best prices in months on 11-inch M2 iPad Pro. Af… [+5248 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Forbes"
-    },
-    "author": "Serenity Gibbons, Contributor, \n Serenity Gibbons, Contributor\n https://www.forbes.com/sites/serenitygibbons/",
-    "title": "3 Tips For Standing Out In A Crowded Market",
-    "description": "Competition is fierce in most areas of business. Here is how you can take a holistic approach to stand out from the crowd.",
-    "url": "https://www.forbes.com/sites/serenitygibbons/2023/07/13/3-tips-for-standing-out-in-a-crowded-market/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64af0fd5ba029c40e5e9bd07/0x0.jpg?format=jpg&width=1200",
-    "publishedAt": "2023-07-13T09:00:00Z",
-    "content": "There are a lot of businesses out there. Post-pandemic, American entrepreneurs have been launching new ventures at the rapacious rate of several million new enterprises every year. Quickbooks estimat… [+6215 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Android Police"
-    },
-    "author": "Manuel Vonau",
-    "title": "Bluetooth hearing aid compatibility: Which phones have it",
-    "description": "As the hearables market grows in the US, Apple and Android are working with hearing aid manufacturers to make their products compatible",
-    "url": "https://www.androidpolice.com/bluetooth-hearing-aid-compatibility-phones-guide/",
-    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/jabra-enhance-plus-7.jpg",
-    "publishedAt": "2023-07-13T10:36:18Z",
-    "content": "More and more people have some form of hearing impairment in this increasingly loud day and age. Chances are your hearing also isn't the best if you stumbled upon this guide. You may remember hearing… [+7674 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Android Police"
-    },
-    "author": "Renee Christian",
-    "title": "Best smart home security system with no monthly fee in 2023",
-    "description": "Discover reliable and robust smart home security systems with no monthly fee to secure your property in this informative roundup",
-    "url": "https://www.androidpolice.com/best-smart-home-security-system-with-no-monthly-fee/",
-    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/smart-home-security-feature-image.jpg",
-    "publishedAt": "2023-07-13T14:00:18Z",
-    "content": "Home security systems with no monthly fee deliver many of the benefits of a professional home security system without a contract or cost. Set up and configure the smart security devices supplied, the… [+16647 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "The Guardian"
-    },
-    "author": "Nicola Slawson",
-    "title": "Hollywood actors’ union recommends strike | First Thing",
-    "description": "Sag-Aftra committee decision raises prospect of first simultaneous strike by writers and actors in more than 60 years. Plus, a surfing sea otter leaves experts puzzledGood morning.Due to an error, Tuesday’s First Thing wasn’t sent out. We apologize for the in…",
-    "url": "https://www.theguardian.com/us-news/2023/jul/13/first-thing-hollywood-actors-union-recommends-strike-as-talks-deadline-passes",
-    "urlToImage": "https://i.guim.co.uk/img/media/738305a92cba5a956cde0979dd64d63475974ee7/0_0_4018_2411/master/4018.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e1906a9f7f7dc98d2fb1a24e5888356",
-    "publishedAt": "2023-07-13T10:29:10Z",
-    "content": "Good morning.\r\nDue to an error, Tuesdays First Thing wasnt sent out. We apologize for the inconvenience.\r\nThe union representing Hollywood actors has recommended strike action after a midnight negoti… [+11883 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Autoblog"
-    },
-    "author": "James Riswick",
-    "title": "2023 Honda Pilot TrailSport Road Test: Outdoor adventuring to Oregon",
-    "description": "Filed under:\n Honda,Crossover,SUV,Road Tests\n Continue reading 2023 Honda Pilot TrailSport Road Test: Outdoor adventuring to Oregon\n2023 Honda Pilot TrailSport Road Test: Outdoor adventuring to Oregon originally appeared on Autoblog on Thu, 13 Jul 2023 06:00:…",
-    "url": "https://www.autoblog.com/2023/07/13/honda-pilot-trailsport-road-test-outdoor-adventure/",
-    "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/07/10192558/2023-Honda-Pilot-TrailSport-at-Oregon-state-line.jpg",
-    "publishedAt": "2023-07-13T10:00:00Z",
-    "content": "BEND, Ore. Outdoor adventure trim levels are all the rage throughout the SUV landscape. The 2023 Honda Pilot TrailSport is one of the newest in the three-row segment, joining those by Nissan, Ford, K… [+10283 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Autoblog"
-    },
-    "author": "Autoblog Staff",
-    "title": "Best Amazon Prime Day deals still available for 2023",
-    "description": "Filed under:\n Commerce\n Continue reading Best Amazon Prime Day deals still available for 2023\nBest Amazon Prime Day deals still available for 2023 originally appeared on Autoblog on Thu, 13 Jul 2023 08:00:00 EDT. Please see our terms for use of feeds.\nPermali…",
-    "url": "https://www.autoblog.com/article/amazon-prime-day-deals-still-available-2023/",
-    "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2023-07/2c316230-1f51-11ee-a57e-6ed08950c60e",
-    "publishedAt": "2023-07-13T12:00:00Z",
-    "content": "Autoblog may receive a share from purchases made via links on this page. Pricing and availability are subject to change.\r\nPrime Day 2023 may be over but there are still great deals to take advantage … [+31284 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "AppleInsider"
-    },
-    "author": "news@appleinsider.com (William Gallagher)",
-    "title": "Billie Eilish talks about the 'Barbie' movie in an Apple Music special",
-    "description": "Apple Music's Zane Lowe interviews musician/songwriter Billie Eilish over writing a song for the \"Barbie\" movie, and how it connects to her childhood.Billie Eilish in an Apple Music specialFor a movie that's about a doll — even an iconic doll — the \"Barbie\" f…",
-    "url": "https://appleinsider.com/articles/23/07/13/billie-eilish-talks-about-the-barbie-movie-in-an-apple-music-special",
-    "urlToImage": "https://photos5.appleinsider.com/gallery/55378-112489-000-lead-Billie-Eilish-xl.jpg",
-    "publishedAt": "2023-07-13T15:18:49Z",
-    "content": "Billie Eilish in an Apple Music special\r\nApple Music's Zane Lowe interviews musician/songwriter Billie Eilish over writing a song for the \"Barbie\" movie, and how it connects to her childhood.\r\nFor a … [+885 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "AppleInsider"
-    },
-    "author": "news@appleinsider.com (William Gallagher)",
-    "title": "Forget folding, Apple really wants iPhones with rollable screens",
-    "description": "An \"iPhone Fold\" may already be in Apple's rear-view mirror, as the company is diligently pursuing the idea of an iPhone screen that can be rolled up when not in use.Detail from the patent showing on form of rolled-up displayIn May 2023, AppleInsider describe…",
-    "url": "https://appleinsider.com/articles/23/07/13/forget-folding-apple-really-wants-iphones-with-rollable-screens",
-    "urlToImage": "https://photos5.appleinsider.com/gallery/55372-112476-001-Detail-from-the-patent-xl.jpg",
-    "publishedAt": "2023-07-13T11:23:55Z",
-    "content": "Detail from the patent showing on form of rolled-up display\r\nAn \"iPhone Fold\" may already be in Apple's rear-view mirror, as the company is diligently pursuing the idea of an iPhone screen that can b… [+3797 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "AppleInsider"
-    },
-    "author": "news@appleinsider.com (William Gallagher)",
-    "title": "Apple brings Tap to Pay to UK iPhone users",
-    "description": "Apple has introduced its Tap to Pay service in the UK, letting businesses accept contactless payments via iPhones, instead of requiring separate card or NFC readers.Tap to Pay on iPhoneTap to Pay was first introduced in Apple Stores in the US in May 2022, and…",
-    "url": "https://appleinsider.com/articles/23/07/13/apple-brings-tap-to-pay-to-uk-iphone-users",
-    "urlToImage": "https://photos5.appleinsider.com/gallery/49264-96220-46903-91416-000-lead-Tap-to-Pay-xl-xl.jpg",
-    "publishedAt": "2023-07-13T09:52:27Z",
-    "content": "Tap to Pay on iPhone\r\nApple has introduced its Tap to Pay service in the UK, letting businesses accept contactless payments via iPhones, instead of requiring separate card or NFC readers.\r\nTap to Pay… [+1313 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "AppleInsider"
-    },
-    "author": "news@appleinsider.com (Andrew Orr)",
-    "title": "New EU regulations mandate user-replaceable batteries in Apple products",
-    "description": "Regulations approved by the European Council now mandate that companies, including Apple, must ensure that batteries in the iPhone and other products are replaceable by users.European Council adopts battery regulationThe European Council has announced that it…",
-    "url": "https://appleinsider.com/articles/23/07/13/new-eu-regulations-mandate-user-replaceable-batteries-in-apple-products",
-    "urlToImage": "https://photos5.appleinsider.com/gallery/55376-112488-battery-iPhone-xl.jpg",
-    "publishedAt": "2023-07-13T14:58:36Z",
-    "content": "European Council adopts battery regulation\r\nRegulations approved by the European Council now mandate that companies, including Apple, must ensure that batteries in the iPhone and other products are r… [+3186 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "AppleInsider"
-    },
-    "author": "news@appleinsider.com (William Gallagher)",
-    "title": "Apple celebrates its highest number of Emmy nominations",
-    "description": "Apple TV+ hit \"Ted Lasso\" has become the most Emmy-nominated comedy for the third year running, while 'Still: A Michael J. Fox Movie\" is the year's most-nominated documentary.Still: A Michael J. Fox Movie has received seven Emmy nominations. Source: AppleCoun…",
-    "url": "https://appleinsider.com/articles/23/07/13/apple-celebrates-its-highest-number-of-emmy-nominations",
-    "urlToImage": "https://photos5.appleinsider.com/gallery/55371-112475-000-lead-Still-xl.jpg",
-    "publishedAt": "2023-07-13T10:32:54Z",
-    "content": "Still: A Michael J. Fox Movie has received seven Emmy nominations. Source: Apple\r\nApple TV+ hit \"Ted Lasso\" has become the most Emmy-nominated comedy for the third year running, while 'Still: A Micha… [+2173 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "AppleInsider"
-    },
-    "author": "news@appleinsider.com (William Gallagher)",
-    "title": "Apple's vision for TV means never having to search for a remote, because anything will do",
-    "description": "It sounds like a joke, but in the future, if you want to turn the volume up on your Apple TV 4K set, you could wave a hand, a baseball bat, or any object lying around you to get the job done.Detail from a patent application showing Apple Watch wrist movement …",
-    "url": "https://appleinsider.com/articles/23/07/13/apples-vision-for-tv-means-never-having-to-search-for-a-remote-because-anything-will-do",
-    "urlToImage": "https://photos5.appleinsider.com/gallery/55373-112480-000-lead-Remote-control-xl.jpg",
-    "publishedAt": "2023-07-13T13:23:05Z",
-    "content": "Detail from a patent application showing Apple Watch wrist movement controlling music\r\nIt sounds like a joke, but in the future, if you want to turn the volume up on your Apple TV 4K set, you could w… [+3793 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "AppleInsider"
-    },
-    "author": "news@appleinsider.com (Andrew Orr)",
-    "title": "Apple's macOS saw a dramatic upturn in 2022 worldwide",
-    "description": "Adoption of macOS has steadily risen in recent months to become the second most-used operating system in the world - and December was a turning point.Apple's macOS is in second place for worldwide adoptionRecent statistics provided by StatCounter analyze the …",
-    "url": "https://appleinsider.com/articles/23/07/13/apples-macos-saw-a-dramatic-upturn-in-2022-worldwide",
-    "urlToImage": "https://photos5.appleinsider.com/gallery/55374-112483-M2-MacBook-Air-xl.jpg",
-    "publishedAt": "2023-07-13T13:48:51Z",
-    "content": "Apple's macOS is in second place for worldwide adoption\r\nAdoption of macOS has steadily risen in recent months to become the second most-used operating system in the world - and December was a turnin… [+1660 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "AppleInsider"
-    },
-    "author": "news@appleinsider.com (Jess Pingrey)",
-    "title": "Deals: $1,400 off M1 Max MacBook Pro, iMacs up to 30% off, M2 MacBook Air $929, iPhone 14 Plus up to $170 off, more",
-    "description": "Today's hottest deals include an iHome AutoVac Eclipse Pro robot vacuum for $147, 54% off an iPhone leather wallet with MagSafe, 53% off a JBL virtual Dolby Atmos soundbar, 70% off Philips wireless earbuds, and more.Save $1,400 on a M1 Max MacBook ProThe Appl…",
-    "url": "https://appleinsider.com/articles/23/07/13/deals-1400-off-m1-max-macbook-pro-imacs-up-to-30-off-m2-macbook-air-929-iphone-14-plus-up-to-170-off-more",
-    "urlToImage": "https://photos5.appleinsider.com/gallery/55363-112478-daily-deals-july-13-xl.jpg",
-    "publishedAt": "2023-07-13T13:35:39Z",
-    "content": "Save $1,400 on a M1 Max MacBook Pro\r\nToday's hottest deals include an iHome AutoVac Eclipse Pro robot vacuum for $147, 54% off an iPhone leather wallet with MagSafe, 53% off a JBL virtual Dolby Atmos… [+3786 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Macworld"
-    },
-    "author": "Jason Cross",
-    "title": "Five iOS 17 features that aren’t in the public beta—and won’t be ready in time for launch",
-    "description": "Macworld\n\n\n\r\n\n\n\n\nWhen iOS 17 launches in the fall, it will bring a wealth of improvements and new features: Contact posters, live voicemail transcription, StandBy, FaceTime messages, new autocorrect and dictation, Siri improvements, and a lot more. But some o…",
-    "url": "https://www.macworld.com/article/1961587/ios-17-features-launch-later-this-year.html",
-    "urlToImage": "https://www.macworld.com/wp-content/uploads/2023/07/ios-17-logo-colors-8.jpg?quality=50&strip=all&w=1024",
-    "publishedAt": "2023-07-13T11:15:00Z",
-    "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWhen iOS 17 launches… [+3421 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Elespanol.com"
-    },
-    "author": "Manuel Ramírez",
-    "title": "Samsung tendría listo su chip Exynos de gama alta: todo sobre el 'cerebro' de los próximos Galaxy S24",
-    "description": "La idea de Samsung es dejar de lado el chip Snapdragon como ha ido haciendo hasta la serie Galaxy S22 en España y Europa.",
-    "url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20230713/samsung-listo-chip-exynos-gama-alta-cerebro-proximos-galaxy-s24/778672142_0.html",
-    "urlToImage": "https://s1.eestatic.com/2023/02/06/elandroidelibre/moviles-android/analisis/739436443_232315520_1200x630.jpg",
-    "publishedAt": "2023-07-13T10:05:37Z",
-    "content": "Justo a finales del año pasado Samsung creó una nueva división para impulsar sus chips Exynos que se han visto en un segundo plano desde que se incluyera en España al Snapdragon 8 Gen 2 en los Galaxy… [+2546 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Elespanol.com"
-    },
-    "author": "Alvarez del Vayo",
-    "title": "La sorpresa de la gama alta cumple en todo y lo hace con estilo: probamos a fondo el nuevo Nothing Phone (2)",
-    "description": "Diseño, fluidez y muchas mejoras. Esto es lo que ofrece el nuevo Nothing Phone (2) que hemos analizado durante dos semanas.",
-    "url": "https://www.elespanol.com/elandroidelibre/moviles-android/analisis/20230713/sorpresa-gama-alta-cumple-hace-estilo-probamos-fondo-nuevo-nothing-phone/775172501_0.html",
-    "urlToImage": "https://s1.eestatic.com/2023/07/11/elandroidelibre/moviles-android/analisis/778182859_234688398_1200x630.jpg",
-    "publishedAt": "2023-07-13T15:36:02Z",
-    "content": "Si hay una empresa en el sector de los teléfonos móviles que quiera controlar el diseño y su proyección, esa es sin duda Nothing. Al contrario que otras marcas, limitan mucho la cantidad de productos… [+14760 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Gizmodo.jp"
-    },
-    "author": "山本勇磨",
-    "title": "Appleも参戦したXRで、私たちの“日常”はどのように変わるの？ XRの開発者に聞いた",
-    "description": "Image:AppleAppleVisionProの登場によって、最近ますます「XR」という言葉を目にすることが増えました。XRとは「VR」や「AR」と呼ばれる「現実世界と仮想世界を融合する技術」の総称。ただスマホやPCと比べてみると、このXRデバイス（たとえばARグラスとか）って、なんとなくまだ遠い存在だと感じませんか？Appleの参入によって、XRデバイスがどのように身近になってくるのか、XR",
-    "url": "https://www.gizmodo.jp/2023/07/styly-xr-interview.html",
-    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/06/29/230628_styly_xr_interview_0.jpg?w=1280&h=630&f=jpg",
-    "publishedAt": "2023-07-13T09:00:00Z",
-    "content": "Apple Vision ProXRXRVRAR\r\nPCXRAR\r\nAppleXRXRSTYLY\r\nXR\r\n2012Google20%VR/AR2018Psychic VR Lab20194STYLY20216CHRO\r\nXR\r\nMeta QuestXREALNREALXRXR\r\nXR\r\n1\r\nMeta Quest 2XREAL Air\r\nMetaOculusVRXR\r\nXR10VR\r\nVR\r\n… [+636 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "CNET"
-    },
-    "author": "Zachary McAuliffe",
-    "title": "iOS 16.5.1 (c): You Should Download This iPhone Update Now - CNET",
-    "description": "The latest Rapid Security Response should patch issues some people had with previous updates.",
-    "url": "https://www.cnet.com/tech/services-and-software/ios-16-5-1-c-you-should-download-this-iphone-update-now/",
-    "urlToImage": "https://www.cnet.com/a/img/resize/e9eabeaebbed80633f34e36b21f5477055d087a4/hub/2023/03/16/a8cf61d9-042f-49fe-bc7a-e357b0133417/apple-iphone-14-xx-8083-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "publishedAt": "2023-07-13T15:56:13Z",
-    "content": "On Wednesday, Apple released iOS 16.5.1 (c), a Rapid Security Response update to its iPhone software that patches a security vulnerability and squashes some bugs some iPhone users may have run into. … [+956 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "CNET"
-    },
-    "author": "Oscar Gonzalez",
-    "title": "Amazon Touts Prime Day 2023 As Its Biggest Sales Event Ever - CNET",
-    "description": "Amazon says more than 375 million items were sold worldwide during Prime Day.",
-    "url": "https://www.cnet.com/tech/amazon-touts-prime-day-2023-as-its-biggest-sales-event-ever/",
-    "urlToImage": "https://www.cnet.com/a/img/resize/c753d42b56b74de92da837a2141cf52f2c6f7275/hub/2023/06/23/daa83470-f8a0-4e55-a05e-33e2a4e475bc/prime-day-hero.png?auto=webp&fit=crop&height=675&width=1200",
-    "publishedAt": "2023-07-13T15:14:10Z",
-    "content": "This year's Amazon Prime Day has officially come to an end (although there are plenty of deals still floating around), and the retail giant on Thursday touted it as \"the biggest Prime Day event ever\"… [+1338 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Journal du geek"
-    },
-    "author": "tristan carballeda",
-    "title": "Les ventes d’ordinateurs s’écroulent, sauf chez Apple",
-    "description": "Apple a trouvé la recette magique pour vendre toujours plus de Mac. Même quand le marché connaît l'une de ses plus grosses crises. \nLes ventes d’ordinateurs s’écroulent, sauf chez Apple",
-    "url": "https://www.journaldugeek.com/2023/07/13/les-ventes-dordinateurs-secroulent-sauf-chez-apple/",
-    "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/07/macbook-air-13-vs-15.jpg",
-    "publishedAt": "2023-07-13T11:00:31Z",
-    "content": "Apple a trouvé la recette magique pour vendre toujours plus de Mac. Même quand le marché connaît l'une de ses plus grosses crises.Le marché des ordinateurs est en crise depuis quelques mois. Suite à … [+2658 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Journal du geek"
-    },
-    "author": "Rédacteur Invité",
-    "title": "Baisse des prix sur la fibre optique : un forfait pour une bouchée de pain",
-    "description": "Des tarifs réduits durant plusieurs mois sont proposés chez Bouygues Télécom pour les box fibre optique. Voici comment y avoir droit.\nBaisse des prix sur la fibre optique : un forfait pour une bouchée de pain",
-    "url": "https://www.journaldugeek.com/2023/07/13/baisse-des-prix-sur-la-fibre-optique-un-forfait-pour-une-bouchee-de-pain/",
-    "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/07/internet.jpg",
-    "publishedAt": "2023-07-13T15:36:43Z",
-    "content": "Des tarifs réduits durant plusieurs mois sont proposés chez Bouygues Télécom pour les box fibre optique. Voici comment y avoir droit.La Bbox fit propose la fibre optique pour seulement 17,99 euros pa… [+3713 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Journal du geek"
-    },
-    "author": "Sebastian Danila",
-    "title": "AirPods : grâce à cette offre CHOC, ils sont encore moins cher que lors du Prime Day",
-    "description": "Bien que le Prime Day d'Amazon ait pris fin ce mercredi 12 juillet au soir, Amazon propose aujourd'hui une offre surprenante. Les AirPods 2 d'Apple sont en effet victimes d'une nouvelle baisse de prix. De la sorte, il est possible de les avoir pour encore moi…",
-    "url": "https://www.journaldugeek.com/bon-plan/airpods-grace-a-cette-offre-choc-ils-sont-encore-moins-cher-que-lors-du-prime-day/",
-    "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/07/airpods2.jpg",
-    "publishedAt": "2023-07-13T15:45:32Z",
-    "content": "Bien que le Prime Day d'Amazon ait pris fin ce mercredi 12 juillet au soir, Amazon propose aujourd'hui une offre surprenante. Les AirPods 2 d'Apple sont en effet victimes d'une nouvelle baisse de pri… [+4171 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Theregister.com"
-    },
-    "author": "Liam Proven",
-    "title": "Three signs that Wayland is becoming the favored way to get a GUI on Linux",
-    "description": "May be about to join systemd as the new tech for graybeards to scorn... but adopt anyway\nIt has taken about 15 years to get there, but there is mounting evidence that the Wayland display server may soon topple X11 as the most common way to get a GUI on Linux.…",
-    "url": "https://www.theregister.com/2023/07/13/wayland_is_coming/",
-    "urlToImage": "https://regmedia.co.uk/2023/07/13/shutterstock_hammeranvil.jpg",
-    "publishedAt": "2023-07-13T10:30:07Z",
-    "content": "It has taken about 15 years to get there, but there is mounting evidence that the Wayland display server may soon topple X11 as the most common way to get a GUI on Linux.\r\nWe've reported on growing e… [+3541 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Jesús Quesada",
-    "title": "¿No llegaste al Amazon Prime Day? Aquí las mejores ofertas en iPhone, iPad, Apple Watch y más de El Corte Inglés o MediaMarkt",
-    "description": "El Prime Day 2023 de Amazon ya ha terminado, pero las ofertas continúan. Si no te hiciste con ningún chollo de Apple durante los días 11 y 12 de julio, te traemos los mejores chollos en iPhone, iPad, Apple Watch y más de tiendas como El Corte Inglés, MediaMar…",
-    "url": "https://www.applesfera.com/seleccion/no-llegaste-al-amazon-prime-day-aqui-mejores-ofertas-iphone-ipad-apple-watch-corte-ingles-mediamarkt",
-    "urlToImage": "https://i.blogs.es/37621e/ofertas-post-amazon/840_560.jpeg",
-    "publishedAt": "2023-07-13T06:30:57Z",
-    "content": "El Prime Day 2023 de Amazon ya ha terminado, pero las ofertas continúan. Si no te hiciste con ningún chollo de Apple durante los días 11 y 12 de julio, te traemos los mejores chollos en iPhone, iPad,… [+4383 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Miguel López",
-    "title": "Descuentos y cupones de hasta 150€: Apple lanza su \"vuelta al cole\" para estudiantes y universitarios",
-    "description": "Apple ha lanzado su campaña para estudiantes puntualmente, como cada año, con la intención de facilitar la compra de nuevos productos de la compañía a aquellas personas que los utilicen para estudiar. La compañía ha confirmado con una nota de prensa los preci…",
-    "url": "https://www.applesfera.com/apple-1/descuentos-cupones-150eur-apple-lanza-su-vuelta-al-cole-para-estudiantes-universitarios",
-    "urlToImage": "https://i.blogs.es/3ec0c5/captura-de-pantalla-2023-07-13-a-las-12.11.38/840_560.jpeg",
-    "publishedAt": "2023-07-13T11:16:08Z",
-    "content": "Apple ha lanzado su campaña para estudiantes puntualmente, como cada año, con la intención de facilitar la compra de nuevos productos de la compañía a aquellas personas que los utilicen para estudiar… [+2052 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Fran Bouzas",
-    "title": "Apple hace historia en los Emmy: estas son las 54 nominaciones que ha conseguido para entrar en el podio de las productoras más laureadas",
-    "description": "Algo que en Apple han parecido ser capaces de entender es que el hardware es cada vez menos rentable. No por nada, simplemente cada vez hay menos gente que cambie su teléfono todos los años. La tecnología se ha vuelto mejor y más consistente, por lo que dura …",
-    "url": "https://www.applesfera.com/servicios-apple/apple-hace-historia-emmy-estas-54-nominaciones-que-ha-conseguido-para-entrar-podio-productoras-laureadas",
-    "urlToImage": "https://i.blogs.es/c3467b/apple-tv-plus-2023-emmy-nominations-ted-lasso/840_560.jpeg",
-    "publishedAt": "2023-07-13T10:09:18Z",
-    "content": "Algo que en Apple han parecido ser capaces de entender es que el hardware es cada vez menos rentable. No por nada, simplemente cada vez hay menos gente que cambie su teléfono todos los años. La tecno… [+6253 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Alberto García",
-    "title": "El SSD portátil más vendido de Crucial para Mac está de oferta con uno de los mejores descuentos hasta la fecha",
-    "description": "Los ordenadores han evolucionado muchísimo durante estos últimos años, pero muchas veces seguimos teniendo el mismo problema con el caso del almacenamiento interno de los mismos. Para ello, los SSD portátiles como el Crucial X8 son una solución muy buena, y y…",
-    "url": "https://www.applesfera.com/seleccion/ssd-portatil-vendido-crucial-para-mac-esta-oferta-uno-mejores-descuentos-fecha",
-    "urlToImage": "https://i.blogs.es/07537d/crucial-x8/840_560.jpeg",
-    "publishedAt": "2023-07-13T10:32:04Z",
-    "content": "Los ordenadores han evolucionado muchísimo durante estos últimos años, pero muchas veces seguimos teniendo el mismo problema con el caso del almacenamiento interno de los mismos. Para ello, los SSD p… [+2644 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Fran Bouzas",
-    "title": "Apple relanza de urgencia una actualización de seguridad de iOS 16 que estaba dando problemas en el iPhone",
-    "description": "Hace dos días Apple lanzó una actualización de seguridad para solventar un error grave en la primera versión de iOS 16.5.1. Sin embargo, la propia empresa tuvo que retirarla horas más tarde tras descubrir que estaba causando que ciertas páginas web en Safari …",
-    "url": "https://www.applesfera.com/ios/apple-relanza-urgencia-actualizacion-seguridad-ios-16-que-estaba-dando-problemas-iphone",
-    "urlToImage": "https://i.blogs.es/b03220/diseno-sin-titulo-162/840_560.jpeg",
-    "publishedAt": "2023-07-13T08:04:29Z",
-    "content": "Hace dos días Apple lanzó una actualización de seguridad para solventar un error grave en la primera versión de iOS 16.5.1. Sin embargo, la propia empresa tuvo que retirarla horas más tarde tras desc… [+1720 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Fran Bouzas",
-    "title": "Déjate de plegables: esta patente quiere que el iPhone del futuro se enrolle",
-    "description": "Seguramente el iPhone haya tenido dos momentos en los que ha sufrido un cambio sustancial en su propia identidad. El primero fue con el iPhone 6, y el segundo con el iPhone X. En cierto modo, no fue solo su diseño lo que se alteró, también su filosofía, y eso…",
-    "url": "https://www.applesfera.com/rumores/dejate-plegables-esta-patente-quiere-que-iphone-futuro-se-enrolle",
-    "urlToImage": "https://i.blogs.es/54dceb/iphone_plegable/840_560.jpeg",
-    "publishedAt": "2023-07-13T16:00:59Z",
-    "content": "Seguramente el iPhone haya tenido dos momentos en los que ha sufrido un cambio sustancial en su propia identidad. El primero fue con el iPhone 6, y el segundo con el iPhone X. En cierto modo, no fue … [+2227 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Pedro Aznar",
-    "title": "Hacía años que no disfrutaba tanto con macOS: éstas características clave piden a gritos que pruebes la beta pública de Sonoma",
-    "description": "Apple liberó ayer la primera beta pública de sus próximos sistemas operativos, con el objetivo de que personas que no son desarrolladores puedan probarlo para ayudar a depurar posibles errores. La instalación es muy sencilla, sólo tenemos que registrarnos en …",
-    "url": "https://www.applesfera.com/os-x/anos-que-no-disfrutaba-macos-estas-caracteristicas-clave-piden-a-gritos-que-pruebes-beta-publica-sonoma",
-    "urlToImage": "https://i.blogs.es/6a935a/sonoma-aps-50/840_560.jpeg",
-    "publishedAt": "2023-07-13T14:12:21Z",
-    "content": "Apple liberó ayer la primera beta pública de sus próximos sistemas operativos, con el objetivo de que personas que no son desarrolladores puedan probarlo para ayudar a depurar posibles errores. La in… [+7077 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Miguel López",
-    "title": "He probado Thunderbird en Mac después de muchos años: es injusto que nos hayamos olvidado de él",
-    "description": "Todos los iPhone, iPad y Mac (y pronto las Vision Pro) cuentan con la aplicación Mail nativa de Apple. Y para los que no les guste esa experiencia y busquen un cliente en macOS siempre puede optar por Outlook o alternativas de terceros muy cuidadas como Spark…",
-    "url": "https://www.applesfera.com/aplicaciones-os-x-1/he-probado-thunderbird-mac-despues-muchos-anos-injusticia-que-nos-hayamos-olvidado",
-    "urlToImage": "https://i.blogs.es/492dee/thunderbird-mac/840_560.jpeg",
-    "publishedAt": "2023-07-13T15:26:00Z",
-    "content": "Todos los iPhone, iPad y Mac (y pronto las Vision Pro) cuentan con la aplicación Mail nativa de Apple. Y para los que no les guste esa experiencia y busquen un cliente en macOS siempre puede optar po… [+3220 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Fran Bouzas",
-    "title": "Bard, la IA de Google que quiere derrotar a ChatGPT, ya disponible en España: así puedes probarla en tu iPhone",
-    "description": "Una de las tecnologías que más han marcado este año 2023 ha sido, sin duda, la inteligencia artificial. Es algo de lo que llevábamos mucho tiempo oyendo hablar, pero que no acabábamos de ver materializado. Sin embargo, un día apareció ChatGPT y nos dejó a tod…",
-    "url": "https://www.applesfera.com/tutoriales/bard-ia-google-que-quiere-derrotar-a-chatgpt-disponible-espana-asi-puedes-probarla-tu-iphone",
-    "urlToImage": "https://i.blogs.es/eff411/diseno-sin-titulo-164/840_560.jpeg",
-    "publishedAt": "2023-07-13T12:07:17Z",
-    "content": "Una de las tecnologías que más han marcado este año 2023 ha sido, sin duda, la inteligencia artificial. Es algo de lo que llevábamos mucho tiempo oyendo hablar, pero que no acabábamos de ver material… [+2106 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "Miguel López",
-    "title": "Estos son los cinco cambios en iOS 17 que merecen que pruebes la beta pública",
-    "description": "Ayer iOS 17 dio un paso importante en su desarrollo: lanzar su beta pública para que cualquier usuario, más allá de los desarrolladores, la pudiese probar. Tras varias betas reservadas solamente al canal de esos desarrolladores, es una indicación de que su av…",
-    "url": "https://www.applesfera.com/ios/estos-cinco-cambios-ios-17-que-merecen-que-pruebes-beta-publica",
-    "urlToImage": "https://i.blogs.es/07f49b/ios-17-iphone-apple-beta/840_560.jpeg",
-    "publishedAt": "2023-07-13T09:00:59Z",
-    "content": "Ayer iOS 17 dio un paso importante en su desarrollo: lanzar su beta pública para que cualquier usuario, más allá de los desarrolladores, la pudiese probar. Tras varias betas reservadas solamente al c… [+3320 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "MakeUseOf"
-    },
-    "author": "Olasubomi Gbenjo",
-    "title": "6 Fixes to Try if Apple Declines Your Payment Method",
-    "description": "Is your Apple ID payment method not working for App Store purchases or subscriptions? Follow these troubleshooting steps.",
-    "url": "https://www.makeuseof.com/apple-declined-payment-method-fixes/",
-    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/close-up-shot-of-a-woman-holding-an-iphone-and-a-card-1.jpg",
-    "publishedAt": "2023-07-13T11:45:18Z",
-    "content": "Picture this: You're going about your day when you receive an email from Apple saying it declined the payment option attached to your subscription service. You're prompted to update your payment meth… [+4707 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "MakeUseOf"
-    },
-    "author": "Samuel L. Garbett",
-    "title": "8 Unique Sensors for Arduino Microcontroller Boards",
-    "description": "Adding sensors to your Arduino opens up a whole new world of exciting projects. Here are some of the best sensors around.",
-    "url": "https://www.makeuseof.com/arduino-microcontroller-boards-unique-sensors/",
-    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/arduino-sensors.jpg",
-    "publishedAt": "2023-07-13T14:30:17Z",
-    "content": "Arduinos are great microcontroller boards with plenty of interesting features, but they can't do much without additional components. There are loads of unique sensors available on the market for Ardu… [+5618 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "DIYphotography"
-    },
-    "author": "Markus Hofstätter",
-    "title": "It’s Time To Say Goodbye – A story about an ending and a new beginning",
-    "description": "In today’s post, I’ll use photography to make memories of the cherry tree that I grew up with since I was a little boy. Many years ago I renovated the house of my grandma and with that also came a big garden full of trees. Every year, I am lucky to harvest fr…",
-    "url": "https://www.diyphotography.net/its-time-to-say-goodbye-a-story-about-an-ending-and-a-new-beginning/",
-    "urlToImage": "https://www.diyphotography.net/wp-content/uploads/2023/07/markus-cherry-tree.jpg",
-    "publishedAt": "2023-07-13T15:37:30Z",
-    "content": "In today’s post, Ill use photography to make memories of the cherry tree that I grew up with since I was a little boy.\r\nMany years ago I renovated the house of my grandma and with that also came a bi… [+4270 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "DIYphotography"
-    },
-    "author": "John Aldred",
-    "title": "Skyglass lets you shoot virtual productions in real-time with your iPhone",
-    "description": "While it might have just been a pipe dream for all but the most elite Hollywood studios just a handful of years ago, virtual production has come to the masses very quickly. Now, it’s gotten to a point where you can do it on your iPhone. Skyglass is a new app …",
-    "url": "https://www.diyphotography.net/skyglass-lets-you-shoot-virtual-productions-in-real-time-with-your-iphone/",
-    "urlToImage": "https://www.diyphotography.net/wp-content/uploads/2023/07/skyglass-virtual-production-iphone.jpg",
-    "publishedAt": "2023-07-13T12:18:47Z",
-    "content": "While it might have just been a pipe dream for all but the most elite Hollywood studios just a handful of years ago, virtual production has come to the masses very quickly. Now, it’s gotten to a poin… [+2169 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Skinnytaste.com"
-    },
-    "author": "Gina",
-    "title": "Pupusas",
-    "description": "Pupusas are stuffed tortillas made with corn masa, cheese and beans served with curtido. They’re easy to customize with any filling you wish. Pupusas I love pupusas and love to keep a stash in my freezer to whip up for lunch anytime. If you like homemade tort…",
-    "url": "https://www.skinnytaste.com/pupusas/",
-    "urlToImage": "https://www.skinnytaste.com/wp-content/uploads/2023/07/Pupusas-11.jpg",
-    "publishedAt": "2023-07-13T16:53:50Z",
-    "content": "This post may contain affiliate links. Read my disclosure policy.\r\nPupusas are stuffed tortillas made with corn masa, cheese and beans served with curtido. Theyre easy to customize with any filling y… [+8295 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "GameSpot"
-    },
-    "author": "Eddie Makuch",
-    "title": "Hollywood Actors Expected To Begin Strike Today, First Since 1980",
-    "description": "Hollywood writers have been on strike since May, and now actors are preparing to strike as well. The biggest actor's union in Hollywood, SAG-AFTRA, has confirmed plans to begin striking as soon as today, July 13. The previous contract expired at 11:59 PM on J…",
-    "url": "https://www.gamespot.com/articles/hollywood-actors-expected-to-begin-strike-today-first-since-1980/1100-6515940/",
-    "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4165191-screenshot2023-07-13at10.07.13am.png",
-    "publishedAt": "2023-07-13T13:35:00Z",
-    "content": "Hollywood writers have been on strike since May, and now actors are preparing to strike as well. The biggest actor's union in Hollywood, SAG-AFTRA, has confirmed plans to begin striking as soon as to… [+2964 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "XDA Developers"
-    },
-    "author": "Carsen Joenk",
-    "title": "Just like Cinderella's carriage, these Prime Day Apple deals go back to normal at midnight",
-    "description": "Get discounts on laptops, watches, and more before they're gone.",
-    "url": "https://www.xda-developers.com/apple-prime-day-last-minute-deals/",
-    "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/03/AirPods-Pro-open-case-next-to-MacBook-Air-M1-and-iPad-Air-5-Large.jpeg",
-    "publishedAt": "2023-07-13T00:21:19Z",
-    "content": "Amazon Prime Day is about to wrap up, which means you have a limited window to take advantage of Apple's best deals. From AirPods to MacBooks, the tech stalwart is offering up many of its devices for… [+5287 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "The A.V. Club"
-    },
-    "author": "Mary Kate Carr",
-    "title": "Billie Eilish wonders \"What Was I Made For?\" in Barbie soundtrack music video",
-    "description": "The star-studded Barbie soundtrack got another A-list addition with Billie Eilish’s “What Was I Made For?” The haunting tune was previously teased in one of the Barbie trailers, but now it’s here in full, accompanied by a music video directed by and starring …",
-    "url": "https://www.avclub.com/billie-eilish-barbie-soundtrack-what-was-i-made-for-1850636766",
-    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/abbb7a30e2ba0e9c9dfb97507475f84a.png",
-    "publishedAt": "2023-07-13T16:51:03Z",
-    "content": "The star-studded Barbie soundtrack got another A-list addition with Billie Eilishs What Was I Made For? The haunting tune was previously teased in one of the Barbie trailers, but now its here in full… [+2310 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Android Authority"
-    },
-    "author": "C. Scott Brown",
-    "title": "It’s official: Smartphones will need to have replaceable batteries by 2027",
-    "description": "Do you miss phones with replaceable batteries? By 2027, you won't anymore because, by law, almost every smartphone will have them again.",
-    "url": "https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/",
-    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/02/nokia-g22-battery-replacement-57-scaled.jpg",
-    "publishedAt": "2023-07-13T16:00:20Z",
-    "content": "<ul><li>The European Council has ended its adoption procedure for rules related to phones with replaceable batteries.</li><li>By 2027, all phones released in the EU must have a battery the user can e… [+4259 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Space.com"
-    },
-    "author": "stingrayghost@gmail.com (Jeff Spry)",
-    "title": "'Foundation' Season 2 clip reveals what it takes to keep a galactic empire together in the face of war (video)",
-    "description": "Apple TV+ released a new clip from the Season 2 premiere of its stellar space saga based on the classic Isaac Asimov novel, \"Foundation,\" which airs on July 14.",
-    "url": "https://www.space.com/foundation-season-two-clip-brother-day",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/nfSmN8V87QF6wJ3Ad2tbu9-1200-80.jpg",
-    "publishedAt": "2023-07-13T14:00:00Z",
-    "content": "Emmy Award-nominated actor Lee Pace always delivers compelling performances, whether he's trying to dominate the galaxy as Ronan the Accuser in \"Guardians of the Galaxy\" or swaying investors as chari… [+3059 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Presse-citron"
-    },
-    "author": "Jean-Yves Alric",
-    "title": "Warren Buffett va gagner 1 milliard grâce à ce placement malin",
-    "description": "Le célèbre investisseur a une nouvelle fois eu le nez creux.",
-    "url": "https://www.presse-citron.net/warren-buffett-va-gagner-1-milliard-grace-a-ce-placement-malin/",
-    "urlToImage": "https://www.presse-citron.net/app/uploads/2022/04/Warren-Buffett-Berkshire-Hathaway.jpg",
-    "publishedAt": "2023-07-13T10:45:03Z",
-    "content": "<ul><li>Berkshire Hathaway, la société dinvestissement de Warren Buffett, a acquis des actions dActivision Blizzard peu avant lannonce du rachat par Microsoft</li><li>Alors que lopération pourrait bi… [+2304 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "BGR"
-    },
-    "author": "José Adorno",
-    "title": "Apple expands Tap to Pay on iPhone to the UK",
-    "description": "Apple is expanding its Tap to Pay feature to UK users, the company announced this Thursday. With that, businesses across the United Kingdom can now …\nThe post Apple expands Tap to Pay on iPhone to the UK appeared first on BGR.",
-    "url": "https://bgr.com/tech/apple-expands-tap-to-pay-on-iphone-to-the-uk/",
-    "urlToImage": "https://bgr.com/wp-content/uploads/2022/02/Apple-Tap-to-Pay.jpg?quality=82&strip=all",
-    "publishedAt": "2023-07-13T11:15:36Z",
-    "content": "Apple is expanding its Tap to Pay feature to UK users, the company announced this Thursday. With that, businesses across the United Kingdom can now accept in-person contactless payments through Tap t… [+2275 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "iMore"
-    },
-    "author": "john-anthony.disotto@futurenet.com (John-Anthony Disotto)",
-    "title": "Ted Lasso leads 54 Emmy Award nominations haul for Apple",
-    "description": "Apple has landed 54 2023 Emmy Award nominations, with Ted Lasso receiving 21, the most for any comedy.",
-    "url": "https://www.imore.com/music-movies-tv/ted-lasso-leads-54-emmy-award-nominations-haul-for-apple",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/xdDtVpJQjHrMzGr4nwjgii-1200-80.jpg",
-    "publishedAt": "2023-07-13T08:41:56Z",
-    "content": "Apple has received 54 Emmy Award nominations across 13 Apple TV Plus shows, including Ted Lasso.\r\nTed Lasso, the Jason Sudeikis comedy, received 21 comedy nominations, including Outstanding Comedy, m… [+5372 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "iMore"
-    },
-    "author": "Stephen Warwick",
-    "title": "Apple's student promo lands in the UK with £130 gift cards up for grabs on Mac and iPad",
-    "description": "Apple has launched its Back to School promotion in the UK, with gift cards and savings on offer for everyone.",
-    "url": "https://www.imore.com/apple/apples-student-promo-lands-in-the-uk-with-pound130-gift-cards-up-for-grabs-on-mac-and-ipad",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/SJiM52eMpSzhRJnbJgATR5-1200-80.jpg",
-    "publishedAt": "2023-07-13T10:41:42Z",
-    "content": "Apple has today launched its annual savings event for higher education students in the UK, offering hefty gift cards with select purchases of its Mac and iPads. \r\nEvery year, Apple offers students a … [+2186 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "iMore"
-    },
-    "author": "Stephen Warwick",
-    "title": "Apple's amazing Tap to Pay iPhone payment feature arrives in the UK",
-    "description": "Apple has today announced the launch of its Tap to Pay on iPhone feature in the UK.",
-    "url": "https://www.imore.com/iphone/apples-amazing-tap-to-pay-iphone-payment-feature-arrives-in-the-uk",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/WCcvFQ4HwxwYQ7DkBgG8LJ-1200-80.jpg",
-    "publishedAt": "2023-07-13T08:46:21Z",
-    "content": "Apple has today announced that a big new iPhone payment upgrade is coming to the UK. The feature, already available to US iPhone users, allows any merchant, small or large, to accept payments using n… [+1511 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "iMore"
-    },
-    "author": "gerald.lynch@futurenet.com (Gerald Lynch)",
-    "title": "Mac Studio (M2 Ultra, M2 Max, 2023) review: Who needs the Mac Pro anyway?",
-    "description": "The 2023 Mac Studio with M2 Ultra and M2 Max chips is so powerful that it’s hard to imagine where Apple goes next with its desktop computers.",
-    "url": "https://www.imore.com/mac/mac-studio-2023-review-m2-ultra-m2-max",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/98BT9pF5BERyLTKicysKdR-1200-80.jpeg",
-    "publishedAt": "2023-07-13T14:45:02Z",
-    "content": "High-powered Macs are like buses — you wait an age for them to appear, and then two come along at once. After years of waiting, a refreshed Mac Pro\r\n computer appeared at WWDC 2023\r\n — but its thunde… [+18837 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "iMore"
-    },
-    "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
-    "title": "iOS 17's latest Siri upgrade could be a gamechanger",
-    "description": "Siri's getting an upgrade and it's already live in the latest iOS 17 beta.",
-    "url": "https://www.imore.com/ios/ios-17/ios-17s-latest-siri-upgrade-could-be-a-gamechanger",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/eUTahMiELc65ysv6PAN5MS-1200-80.jpg",
-    "publishedAt": "2023-07-13T15:31:23Z",
-    "content": "Apple released the first public iOS 17 beta yesterday which means that more people than ever are now using the software that was announced as part of the WWDC 2023 event last month. And it appears th… [+1810 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "iMore"
-    },
-    "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
-    "title": "Is Tesla skipping out on Apple's 30% app tax?",
-    "description": "One of Tesla's subscription options might be dodging Apple's 30% cut according to one report.",
-    "url": "https://www.imore.com/apps/social-apps/is-tesla-skipping-out-on-apples-30-app-tax",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZS92XDePJEMt8t4FRNs4kZ-1200-80.jpg",
-    "publishedAt": "2023-07-13T16:00:41Z",
-    "content": "It's a well-known fact that Apple charges a 30% cut of all in-app purchases and it's something that it has gotten plenty of criticism for over the years. But for the most part app developers pay it. … [+1890 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "iMore"
-    },
-    "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
-    "title": "Apple's UK sales surge to a record £1.5 billion a year ahead of iPhone 15 reveal",
-    "description": "Apple's UK sales have bounced back following a COVID-inspired downturn and have hit a new record high.",
-    "url": "https://www.imore.com/apple/apples-uk-sales-surge-to-a-record-pound15-billion-a-year-ahead-of-iphone-15-reveal",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/ziNxqaYXXWmdW2YtDMcmN8-1200-80.jpg",
-    "publishedAt": "2023-07-13T16:21:33Z",
-    "content": "Apple's UK-based sales have reached a new record after bouncing back from a COVID-inspired downturn.\r\nSales at Apple's online and brick-and-mortar stores across the U.K. reportedly reached a new reco… [+1788 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "iMore"
-    },
-    "author": "john-anthony.disotto@futurenet.com (John-Anthony Disotto)",
-    "title": "I've been using iOS 17 for a month — these are the ten best new features for iPhone",
-    "description": "After using iOS 17 for a month, here are my hands-on impressions and standout features of the latest iPhone software.",
-    "url": "https://www.imore.com/ios/ios-17/ive-been-using-ios-17-for-a-month-these-are-the-ten-best-new-features-for-iphone",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/NxzokUE4EuYzt7zwtNt6BK-1200-80.jpg",
-    "publishedAt": "2023-07-13T15:59:30Z",
-    "content": "The iOS 17 public beta is now available for anyone that wants to give it a try before its official launch later this year. iOS 17 is the next big update for iPhone, and it brings some new and excitin… [+12835 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "iMore"
-    },
-    "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
-    "title": "Latest macOS Sonoma beta finally makes iCloud Keychain work with third-party browsers",
-    "description": "Mac iCloud Keychain users can now access their passwords in Chrome and other third-party browsers with the latest macOS Sonoma beta.",
-    "url": "https://www.imore.com/mac/macos/latest-macos-sonoma-beta-finally-makes-icloud-keychain-work-with-third-party-browsers",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/uPS2FdEtTEAGL5JcY2taQi-1200-80.jpg",
-    "publishedAt": "2023-07-13T11:36:39Z",
-    "content": "Apple's latest macOS Sonoma beta has fixed an issue that has plagued users of third-party web browsers for years. With that beta installed, they can finally access their usernames and passwords from … [+1912 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "PetaPixel"
-    },
-    "author": "Jaron Schneider",
-    "title": "Should You Become a Pro Photographer? | The PetaPixel Podcast",
-    "description": "This week, Chris, Jordan, and Jaron tackle a tough topic: If you love photography and are thinking of making it your job, should you go pro?\n[Read More]",
-    "url": "https://petapixel.com/2023/07/13/should-you-become-a-pro-photographer-the-petapixel-podcast/",
-    "urlToImage": "https://petapixel.com/assets/uploads/2023/07/hobbyist-pro-thumbnail-scaled.jpg",
-    "publishedAt": "2023-07-13T14:26:07Z",
-    "content": "This week, Chris, Jordan, and Jaron tackle a tough topic: If you love photography and are thinking of making it your job, should you go pro? \r\nThis weeks podcast is once again sponsored by OM SYSTEM.… [+2063 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "MacRumors"
-    },
-    "author": "Tim Hardwick",
-    "title": "Latest iOS 17 Beta Includes 'Save to Photos' Option in Full-Page Screenshot Interface, Better Dual-SIM Support",
-    "description": "Apple in the latest iOS 17 public and developer betas has added support for saving full-page screenshots as image files in apps where the system supports the feature.\n\n\n\n\n\nIn iOS 16, users can already opt to take a screenshot in apps like Safari, Notes, and M…",
-    "url": "https://www.macrumors.com/2023/07/13/ios-17-beta-save-full-page-screenshot-image/",
-    "urlToImage": "https://images.macrumors.com/t/F7oTqlQN4Z9JS9HdjKPoRgxasG0=/2250x/article-new/2023/06/General-iOS-17-Feature-Blue-Green.jpg",
-    "publishedAt": "2023-07-13T10:02:17Z",
-    "content": "Apple in the latest iOS 17 public and developer betas has added support for saving full-page screenshots as image files in apps where the system supports the feature.\r\nIn iOS 16, users can already op… [+1092 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "MacRumors"
-    },
-    "author": "Mitchel Broussard",
-    "title": "Missed Amazon Prime Day? You Can Still Get 9th Gen iPad, AirPods Pro 2, and More for Record Low Prices Today",
-    "description": "Now that Amazon Prime Day has ended, many of the week's best deals have expired. However, today we are still tracking a few Apple products that remain at their best-ever prices even after the end of Prime Day, including iPad mini 6, AirPods Pro 2, M1 MacBook …",
-    "url": "https://www.macrumors.com/2023/07/13/missed-amazon-prime-day/",
-    "urlToImage": "https://images.macrumors.com/t/2BBN__Jmq272RrSqyba15xCk0Zc=/2500x/article-new/2023/07/july-13-image-blue.jpg",
-    "publishedAt": "2023-07-13T14:10:25Z",
-    "content": "Now that Amazon Prime Day has ended, many of the week's best deals have expired. However, today we are still tracking a few Apple products that remain at their best-ever prices even after the end of … [+1987 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Les Numériques"
-    },
-    "author": "Henri Lahera",
-    "title": "Actualité : iOS 17 / iPadOS 17 : Apple facilite l’installation de la bêta publique sur iPhone et iPad",
-    "description": "Alors que l’on a récemment pu découvrir les nouveautés d’iOS 17 et d’iPadOS 17 lors de la WWDC, Apple vient enfin de publier la première bêta publique. Voici comment en profiter.",
-    "url": "https://www.lesnumeriques.com/telephone-portable/ios-17-ipados-17-apple-facilite-l-installation-de-la-beta-publique-sur-iphone-et-ipad-n211788.html",
-    "urlToImage": "https://cdn.lesnumeriques.com/optim/news/21/211788/9bedb81c-ios-17-apple-facilite-l-installation-de-la-beta-publique-sur-iphone-et-ipad_png__1200_630__0-38-1776-970.jpg",
-    "publishedAt": "2023-07-13T11:08:00Z",
-    "content": "Apple vient enfin de déployer la bêta publique de ses très attendus iOS 17 et iPadOS 17. Une version assez stable pour que les utilisateurs lutilisent de façon quotidienne. Il devient donc possible d… [+2390 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Xatakamovil.com"
-    },
-    "author": "Álvaro García M.",
-    "title": "Apple lanza una nueva actualización de seguridad para iOS 16. Y esta vez no romperá tu iPhone",
-    "description": "Una de las novedades que trajo iOS 16 fue la posibilidad de recibir actualizaciones rápidas por cuestiones de seguridad. Apple las llama “respuestas rápidas de seguridad” y ya tuvimos ocasión de ver una con iOS 16.4.1. Esta semana se han lanzado dos, lo cual …",
-    "url": "https://www.xatakamovil.com/apple/apple-lanza-nueva-actualizacion-seguridad-para-ios-16-esta-vez-no-rompera-tu-iphone",
-    "urlToImage": "https://i.blogs.es/610de4/ios-16/840_560.jpeg",
-    "publishedAt": "2023-07-13T06:25:53Z",
-    "content": "Una de las novedades que trajo iOS 16 fue la posibilidad de recibir actualizaciones rápidas por cuestiones de seguridad. Apple las llama respuestas rápidas de seguridad y ya tuvimos ocasión de ver un… [+2180 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Xatakamovil.com"
-    },
-    "author": "Alejandro Alcolea",
-    "title": "iOS 17 al alcance de todos los iPhone: la primera beta pública ya disponible",
-    "description": "Ha pasado algo más de un mes desde que Apple anunciara iOS 17 en la WWDC 2023. Durante estas últimas semanas, la compañía ha ido lanzando varias betas para desarrolladores de su nuevo sistema operativo para iPhone, pero como es habitual, ahora llega la beta p…",
-    "url": "https://www.xatakamovil.com/apple/ios-17-al-alcance-todos-iphone-primera-beta-publica-disponible",
-    "urlToImage": "https://i.blogs.es/3e21d9/dscf6010/840_560.jpeg",
-    "publishedAt": "2023-07-13T08:30:58Z",
-    "content": "Ha pasado algo más de un mes desde que Apple anunciara iOS 17 en la WWDC 2023. Durante estas últimas semanas, la compañía ha ido lanzando varias betas para desarrolladores de su nuevo sistema operati… [+2606 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Xatakamovil.com"
-    },
-    "author": "Enrique Moraleda",
-    "title": "¿No llegaste al Prime Day de Amazon? Aquí tienes las mejores ofertas en teléfonos Xiaomi, Samsung, Apple y más de PcComponentes, El Corte Inglés o MediaMarkt",
-    "description": "El Prime Day de Amazon ya ha terminado. Sin embargo puedes encontrar ofertas en los móviles de las compañías más conocidas en otras tiendas como MediaMarkt, El Corte Inglés o PcComponentes. Si estás pensando en cambiar tu dispositivo y hacerlo por menos diner…",
-    "url": "https://www.xatakamovil.com/ofertas/no-llegaste-al-prime-day-amazon-aqui-tienes-mejores-ofertas-telefonos-xiaomi-samsung-apple-pccomponentes-corte-ingles-mediamarkt",
-    "urlToImage": "https://i.blogs.es/114cef/plantilla-imagenes---2023-07-13t095917.840/840_560.jpeg",
-    "publishedAt": "2023-07-13T09:00:59Z",
-    "content": "El Prime Day de Amazon ya ha terminado. Sin embargo puedes encontrar ofertas en los móviles de las compañías más conocidas en otras tiendas como MediaMarkt, El Corte Inglés o PcComponentes. Si estás … [+5138 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Xatakamovil.com"
-    },
-    "author": "Álvaro García M.",
-    "title": "El nuevo 'Humor Amarillo' y la última peli de Mario Casas en Netflix apuntan alto: los 31 estrenos de la semana en streaming",
-    "description": "Que el verano suele ser más pausado es algo que se nota incluso en el streaming, donde por norma general los grandes estrenos ya se han producido o esperan a la época post estival para hacerlo. Sin embargo, aunque con menos ritmo, seguimos encontrando estreno…",
-    "url": "https://www.xatakamovil.com/streaming/nuevo-humor-amarillo-ultima-peli-mario-casas-netflix-apuntan-alto-31-estrenos-semana-streaming",
-    "urlToImage": "https://i.blogs.es/6d6d09/estrenos/840_560.jpeg",
-    "publishedAt": "2023-07-13T10:00:59Z",
-    "content": "Que el verano suele ser más pausado es algo que se nota incluso en el streaming, donde por norma general los grandes estrenos ya se han producido o esperan a la época post estival para hacerlo. Sin e… [+4332 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Xatakamovil.com"
-    },
-    "author": "Alejandro Alcolea",
-    "title": "Enviar SMS sin cobertura de móvil y desde cualquier teléfono: así funciona el accesorio satelital de Motorola que ya está en España",
-    "description": "Nuestros teléfonos móviles nos permiten comunicarnos mediante la señal que reciben de antenas. Ubicadas en diferentes puntos, y aprovechando las redes de diferentes operadoras, tenemos muchísima cobertura a nivel nacional. Sin embargo, hay puntos a los que no…",
-    "url": "https://www.xatakamovil.com/conectividad/enviar-sms-cobertura-movil-cualquier-telefono-asi-funciona-accesorio-satelital-motorola-que-esta-espana",
-    "urlToImage": "https://i.blogs.es/32f51e/img_20230301_121458936/840_560.jpeg",
-    "publishedAt": "2023-07-13T13:46:59Z",
-    "content": "Nuestros teléfonos móviles nos permiten comunicarnos mediante la señal que reciben de antenas. Ubicadas en diferentes puntos, y aprovechando las redes de diferentes operadoras, tenemos muchísima cobe… [+3476 chars]"
-    },
- {
- "source": {
-    "id": "the-washington-post",
-    "name": "The Washington Post"
-    },
-    "author": "Digg Editors",
-    "title": "Tracy Chapman, Luke Combs And The Complicated Response To 'Fast Car'",
-    "description": "Luke Combs’s remake of Tracy Chapman’s 1988 hit « Fast Car » now dominates the country charts, renewing difficult conversations about diversity in Nashville.",
-    "url": "https://www.washingtonpost.com/arts-entertainment/2023/07/13/tracy-chapman-luke-combs-fast-car-cover/",
-    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FWH7FCZVZ4CUI6GM7ACY4J3RZU.jpg&w=1440",
-    "publishedAt": "2023-07-13T14:09:15Z",
-    "content": "Comment on this story\r\nComment\r\nTracy Chapmans Fast Car is one of those songs that you just feel in your soul: the lyrics about the yearning to escape, the gentle guitar underlying a feeling of despa… [+10990 chars]"
-    },
- {
- "source": {
-    "id": null,
-    "name": "Timeextension.com"
-    },
-    "author": "Digg Editors",
-    "title": "Meet The Unsung Pioneer Behind The Most Hated Zelda Games Of All Time",
-    "description": "\"I can understand that people were disappointed\"",
-    "url": "https://www.timeextension.com/features/meet-the-unsung-pioneer-behind-the-most-hated-zelda-games-of-all-time",
-    "urlToImage": "https://images.timeextension.com/070b71823421c/1280x720.jpg",
-    "publishedAt": "2023-07-13T14:07:53Z",
-    "content": "Image: Philips\r\nThe Legend of Zelda series is home to some of the most critically-acclaimed video games ever made, and the franchise is without a doubt one of the most important in Nintendo's illustr… [+17129 chars]"
-    }
-    ]
-    }
+   "status": "ok",
+   "totalResults": 13,
+   "articles": [
+     {
+       "source": {
+         "id": "google-news-uk",
+         "name": "Google News (UK)"
+       },
+       "author": "The Guardian",
+       "title": "Here comes the next phase of Brexit – and it will be bad for our diet, health and wealth - The Guardian",
+       "description": null,
+       "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb29kLzIwMjMvanVsLzEzL25leHQtcGhhc2UtYnJleGl0LWJhZC1mb3ItZGlldC1oZWFsdGgtd2VhbHRo0gFZaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2Zvb2QvMjAyMy9qdWwvMTMvbmV4dC1waGFzZS1icmV4aXQtYmFkLWZvci1kaWV0LWhlYWx0aC13ZWFsdGg?oc=5",
+       "urlToImage": null,
+       "publishedAt": "2023-07-13T11:00:00+00:00",
+       "content": null
+     },
+     {
+       "source": {
+         "id": "espn",
+         "name": "ESPN"
+       },
+       "author": "ESPN",
+       "title": "Dele Alli reveals rehab stay for addiction after childhood sexual abuse - ESPN",
+       "description": "Dele Alli has said he hopes to inspire others after revealing he recently spent six weeks at a rehab facility in the United States for addiction, mental health and trauma treatment.",
+       "url": "https://www.espn.com/soccer/story/_/id/38004205/dele-alli-reveals-rehab-stay-addiction-childhood-sexual-abuse",
+       "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0713%2Fr1197285_1296x729_16%2D9.jpg",
+       "publishedAt": "2023-07-13T10:50:39Z",
+       "content": "Jul 13, 2023, 06:50 AM ET\r\nEverton midfielder Dele Alli has said he hopes to inspire others after revealing he recently spent six weeks at a rehab facility in the United States for addiction, mental … [+4773 chars]"
+     },
+     {
+       "source": {
+         "id": "cbc-news",
+         "name": "CBC News"
+       },
+       "author": "CBC News",
+       "title": "Pints on patios, but not in parks — why drinking alcohol in public spaces is still such a big deal | CBC News",
+       "description": "Several Canadian cities have recently dipped their toes into allowing drinking in public parks, under certain conditions, but not without pushback. While some see it as a 'bit of responsible fun,' others worry about the public health impacts of normalizing al…",
+       "url": "http://www.cbc.ca/news/canada/drinking-in-parks-canada-1.6904771",
+       "urlToImage": "https://i.cbc.ca/1.6905170.1689202375!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/alcohol-drinking-parks.JPG",
+       "publishedAt": "2023-07-13T08:07:22.9191524Z",
+       "content": "You can enjoy a cocktail at home, savour sangria on a restaurant patio, down a drink on an airplane and even sip champagne while getting a pedicure in some licensed locations. So why is it such a bat… [+5953 chars]"
+     },
+     {
+       "source": {
+         "id": "time",
+         "name": "Time"
+       },
+       "author": "Haley Weiss",
+       "title": "Heat Stroke Isn’t Just a Short-Term Danger",
+       "description": "With extreme temperatures increasing, researchers are investigating the long-term health risks of heat stroke.",
+       "url": "http://time.com/6294155/heat-stroke-risks/",
+       "urlToImage": "https://api.time.com/wp-content/uploads/2023/07/Extreme-Heat-stroke-risk.jpg?quality=85&w=1200&h=628&crop=1",
+       "publishedAt": "2023-07-12T21:14:14Z",
+       "content": "With each summer of increased extreme heat, more people worldwide face the risks associated with heat exposure. Last year, Europe saw a record number of heat-related deaths, and even regions more use… [+6862 chars]"
+     },
+     {
+       "source": {
+         "id": "the-huffington-post",
+         "name": "The Huffington Post"
+       },
+       "author": "Sara Boboltz",
+       "title": "BBC Anchor's Wife Names Him As Man Accused Of Paying Teen For Sexual Pics",
+       "description": "Huw Edwards is \"suffering from serious mental health issues,\" his wife said.",
+       "url": "https://www.huffpost.com/entry/huw-edwards-bbc-presenter-sexual-photos_n_64aee3f1e4b0e87d655878be",
+       "urlToImage": "https://img.huffingtonpost.com/asset/64aef3df2500006000fbf72d.jpeg?cache=POEk6Stb4S&ops=1200_630",
+       "publishedAt": "2023-07-12T19:49:00Z",
+       "content": "The wife of BBC News anchor Huw Edwards released a statement Wednesday naming her husband as the mystery man accused of paying a teen for sexually explicit photos a scandal that has engrossed the Bri… [+2970 chars]"
+     },
+     {
+       "source": {
+         "id": "bleacher-report",
+         "name": "Bleacher Report"
+       },
+       "author": "Brent Sobleski",
+       "title": "Why Dolphins Can Be NFL's Most Dangerous Team Behind Vastly Improved Defense",
+       "description": "Dreams of a healthy Tua Tagovailoa connecting downfield with Tyreek Hill or Jaylen Waddle creating a chunk play after a perfectly placed underneath pass…",
+       "url": "https://bleacherreport.com/articles/10082332-why-dolphins-can-be-nfls-most-dangerous-team-behind-vastly-improved-defense",
+       "urlToImage": "https://media.bleacherreport.com/image/upload/x_712,y_156,w_836,h_556,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1689081668/qgrord5r0qkvt1p80s43.jpg",
+       "publishedAt": "2023-07-12T11:28:03Z",
+       "content": "AP Photo/Michael Laughlin\r\nDreams of a healthy Tua Tagovailoa connecting downfield with Tyreek Hill or Jaylen Waddle creating a chunk play after a perfectly placed underneath pass already dominate ex… [+7390 chars]"
+     },
+     {
+       "source": {
+         "id": "medical-news-today",
+         "name": "Medical News Today"
+       },
+       "author": "Tony Hicks",
+       "title": "Artificial sweeteners: Why health officials may declare aspartame a possible carcinogen",
+       "description": "The World Health Organization is expected to declare the artificial sweetener aspartame a potential carcinogen, although experts said it is not clear how much a person would have to consume to increase their cancer risk",
+       "url": "http://www.medicalnewstoday.com/articles/artificial-sweeteners-why-health-officials-may-declare-aspartame-possible-carcinogen",
+       "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/07/cans-diet-drink-cancer-732x549-thumbnail.jpg",
+       "publishedAt": "2023-07-12T05:51:00Z",
+       "content": "<ul><li>Aspartame is an artificial sweetener found in diet sodas, chewing gum, and other products.</li><li>Officials at the World Health Organization are expected to classify aspartame as a potential… [+6744 chars]"
+     },
+     {
+       "source": {
+         "id": "medical-news-today",
+         "name": "Medical News Today"
+       },
+       "author": "Beth JoJack",
+       "title": "Too little sleep may cancel out cognitive benefits reaped from exercise",
+       "description": "Exercise can be beneficial to brain health and protect against cognitive decline, but a lack of sleep may cancel out such benefits reaped from physical activity, according to new research.",
+       "url": "http://www.medicalnewstoday.com/articles/lack-of-sleep-reduces-cognitive-benefits-of-exercise",
+       "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/07/activity_sleep_Stocksy_txp980e8fbbrCk300_Medium_752448_Thumb.jpg",
+       "publishedAt": "2023-07-12T04:00:00Z",
+       "content": "<ul><li>Researchers looked at cognitive function over 10 years in 8,958 people aged 50 and older in England. </li><li>The study found people who slept between 6 and 8 hours per night and engaged in h… [+8099 chars]"
+     },
+     {
+       "source": {
+         "id": "medical-news-today",
+         "name": "Medical News Today"
+       },
+       "author": "Paul Ian Cross, PhD",
+       "title": "What is the liver-brain axis, and does it play a role in dementia?",
+       "description": "This Special Feature looks at the most recent research on the link between liver health and brain health, exploring whether the liver-brain axis plays a role in dementia.",
+       "url": "http://www.medicalnewstoday.com/articles/what-is-the-liver-brain-axis-and-does-it-play-a-role-in-dementia",
+       "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/07/engraved-body-Liver-brain-axis-732x549-thumbnail.jpg",
+       "publishedAt": "2023-07-03T10:30:00Z",
+       "content": "Recent research has shown that the liver and the brain are closely connected and can affect each others functions. So could liver health influence a persons dementia risk? Here is what experts and th… [+9556 chars]"
+     },
+     {
+       "source": {
+         "id": "medical-news-today",
+         "name": "Medical News Today"
+       },
+       "author": "Maria Cohut, Ph.D.",
+       "title": "In Conversation: Why Parkinson's research is zooming in on the gut",
+       "description": "Medical News Today discusses why the gut microbiome is important in Parkinson's disease and what researchers are doing to discover more about the link between Parkinson's and gut health.",
+       "url": "http://www.medicalnewstoday.com/articles/in-conversation-why-parkinsons-research-is-zooming-in-on-the-gut",
+       "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/06/1200x630-Facebook-inconvo-parkinsons-v2-1200x628.jpg",
+       "publishedAt": "2023-06-28T14:09:55Z",
+       "content": "Parkinsons disease affects millions of people around the world, but it remains unclear exactly what causes it, and there is currently no cure for this condition. In an effort to better understand the… [+14382 chars]"
+     },
+     {
+       "source": {
+         "id": "the-irish-times",
+         "name": "The Irish Times"
+       },
+       "author": "Jennifer Bray",
+       "title": "Abortion rules should be relaxed, review to recommend",
+       "description": "Minister for Health Stephen Donnelly considering report by barrister Marie O’Shea which examined operation of the existing law",
+       "url": "https://www.irishtimes.com/ireland/social-affairs/2023/03/29/review-calls-for-abortion-law-to-be-relaxed/",
+       "urlToImage": "https://www.irishtimes.com/resizer/DycgF-s39PfaIVo4cOhhhNhDjqM=/1200x630/filters:format(jpg):quality(70):focal(1109x649:1119x659)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/YVVSZCLNN6CW4NWJKGEPUSEAPE.jpg",
+       "publishedAt": "2023-03-29T04:15:00Z",
+       "content": "A new review of the States abortion law is set to recommend a loosening of existing rules which could involve the removal of the three-day wait to access medication.\r\nMinister for Health Stephen Donn… [+2934 chars]"
+     },
+     {
+       "source": {
+         "id": "the-globe-and-mail",
+         "name": "The Globe And Mail"
+       },
+       "author": "Wency Leung",
+       "title": "‘COVID hasn’t gone away’: Five things health experts say we must do to end the pandemic",
+       "description": "Boosting health care capacity, encouraging third doses and better understanding long COVID are among the issues health experts say need to be addressed",
+       "url": "https://www.theglobeandmail.com/canada/article-covid-19-pandemic-not-over/",
+       "urlToImage": "https://www.theglobeandmail.com/resizer/nYUYq7AN4xv1_6tgavE1CKi6OvQ=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OSOQKLUMCZEDDPFOKUWLUFOLFY.png",
+       "publishedAt": "2022-06-15T17:00:00Z",
+       "content": "Restaurants are open. Festivals are back. Masks, for the most part, are optional. And starting Monday, June 20, proof of vaccination will no longer be required of Canadian air and train passengers.\r\n… [+7848 chars]"
+     },
+     {
+       "source": {
+         "id": "rte",
+         "name": "RTE"
+       },
+       "author": "Will Goodbody",
+       "title": "Efforts continue to assess extent of ransomware issue",
+       "description": "Efforts will continue today to assess the impact of the ransomware attack on the Health Service Executive, healthcare facilities and services here.",
+       "url": "https://www.rte.ie/news/coronavirus/2021/0515/1221735-hse-cyber-atack/",
+       "urlToImage": "https://img.rasset.ie/0016bdc3-1600.jpg",
+       "publishedAt": "2021-05-15T06:18:56Z",
+       "content": "Efforts will continue today to assess the impact of the ransomware attack on the Health Service Executive, healthcare facilities and services.\r\nThe HSE has said it will take a number of days before i… [+1264 chars]"
+     }
+   ]
+ }
