@@ -2,7 +2,7 @@
 import './App.css';
 import React, { Component } from 'react'
 import Navbar from'./components/Navbar';
-//import NewsItem from'./components/NewsItem';
+
 
 
 import News from'./components/News';
